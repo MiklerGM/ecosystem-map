@@ -39,6 +39,6 @@
     "stylelint-config-sass-guidelines": "^11.0.0",
     "stylelint-config-standard": "^36.0.0",
     "stylelint-prettier": "^5.0.0",
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.2"
   }
 }
