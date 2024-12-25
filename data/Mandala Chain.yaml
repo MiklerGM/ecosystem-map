@@ -23,9 +23,14 @@ web:
   site: https://www.mandalachain.io/
   twitter: MandalaChain
   discord: https://discord.com/invite/uzCWJmH6TP
-  contact: 
   github: https://github.com/MandalaChain/Mandala-Node
   documentation: https://docs.mandalachain.io/mandalachain
 treasury_funded: false
 audit: true
 metrics:
+  twitter: []
+  youtube: []
+  github: []
+  discord: []
+  blog: []
+  app_downloads: []
