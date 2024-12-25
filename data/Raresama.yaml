@@ -4,7 +4,6 @@ category:
   - Marketplace
 description: The first NFT Marketplace on Polkadot and soon on zksync.
 readiness:
-  business: 
   technology: Connected to Parachain
 target_audience:
   - Individuals
@@ -16,11 +15,10 @@ ecosystem:
 layer:
   - Layer-3
 web:
-  logo: 
+  logo: default.png
   site: https://raresama.com/
   twitter: RaresamaNFT
   discord: https://discord.com/invite/moonsama
-  contact: 
 metrics:
   twitter:
     - date: 2023-12-31
