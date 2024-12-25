@@ -1,3 +1,4 @@
+import logging
 import sys
 import copy, os, time
 from ruamel.yaml import YAML
@@ -6,14 +7,16 @@ from typing import Any, List, Dict
 from datetime import datetime, timedelta
 import requests
 
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+
 yaml = YAML()
 yaml.default_flow_style = False
 yaml.indent(mapping=2, sequence=4, offset=2)
 
 GITHUB_TOKEN = os.environ.get('GITHUB_API_TOKEN', None)
 if GITHUB_TOKEN is None:
-    print("Error: Github API token is missing")
-    print("Set GITHUB_API_TOKEN env variable")
+    logging.error("Error: Github API token is missing")
+    logging.info("Set GITHUB_API_TOKEN env variable")
     sys.exit(1)
 
 YAML_DIR = "../data"
@@ -98,6 +101,29 @@ def write_yaml(data: EcosystemProject, file_path: str):
     with open(file_path, "w") as file:
         yaml.dump(data.to_dict(), file)
 
+def get_data(url: str, headers: dict = None) -> dict:
+    try:
+        logging.info(f"Sending GET request to {url}")
+        response = requests.get(url, headers=headers)
+        
+        if response.status_code != 200:
+            logging.warning(f"Request to {url} returned status {response.status_code}")
+            logging.warning(f"Response content: {response.text}")
+            return None
+
+        try:
+            json_body = response.json()
+            # logging.info(f"Successfully fetched and parsed JSON from {url}")
+            return json_body
+        except ValueError as e:
+            logging.error(f"Failed to parse JSON from {url}")
+            logging.error(f"Response content: {response.text}")
+            return None
+
+    except requests.RequestException as e:
+        logging.error(f"Request to {url} failed: {str(e)}")
+        return None
+
 def update_github(metrics_data: EcosystemProject):
     name = 'github'
     link_prefix = 'https://github.com/';
@@ -109,19 +135,16 @@ def update_github(metrics_data: EcosystemProject):
             "Authorization": f"Bearer {GITHUB_TOKEN}",
             "X-GitHub-Api-Version": "2022-11-28",
         }
-        try:
-          response = requests.get(data_link, headers=headers)
-          if response.status_code == 200:
-            data_json = response.json()
-            value = data_json.get("stargazers_count", None)
-            if value is not None:
-                metrics_data.set_metric(name, value)
+        response = get_data(data_link, headers=headers)
+        if response:
+          value = response.get("stargazers_count", None)
+          if value is not None:
+            metrics_data.set_metric(name, value)
 
-            last_update = data_json.get("pushed_at", None)
-            if last_update is not None:
-                metrics_data.set_metric("github_pushed_at", int(datetime.fromisoformat(last_update).timestamp()))
-        except:
-            pass
+          last_update = response.get("pushed_at", None)
+          if last_update is not None:
+            metrics_data.set_metric("github_pushed_at", int(datetime.fromisoformat(last_update).timestamp()))
+
 
 def update_discord(metrics_data: EcosystemProject):
     name = 'discord'
@@ -133,33 +156,31 @@ def update_discord(metrics_data: EcosystemProject):
       # guild.icon = dc2b4ee9885f6ba04adbc5a80aa7dd70
       # https://cdn.discordapp.com/icons/849331368558198803/dc2b4ee9885f6ba04adbc5a80aa7dd70.webp?size=128
       data_link = link.replace(link_prefix, 'https://discord.com/api/v10/invites/') + '?with_counts=true&with_expiration=true'
-      try:
-          response = requests.get(data_link)
-          if response.status_code == 200:
-            value = response.json().get("approximate_member_count", None)
-            if value is not None:
-                metrics_data.set_metric(name, value)
-      except:
-          pass
+      response = get_data(data_link)
+      if response is not None:
+        value = response.get("approximate_member_count", None)
+        if value is not None:
+            metrics_data.set_metric(name, value)
 
 def update_metrics(metrics_data: EcosystemProject):
     update_discord(metrics_data=metrics_data)
     update_github(metrics_data=metrics_data)
 
 def process_yaml_files():
-    """Process all YAML files in the directory."""
-    for file_name in os.listdir(YAML_DIR):
-        if file_name.endswith(".yaml") or file_name.endswith(".yml"):
-            file_path = os.path.join(YAML_DIR, file_name)
-            print(f"Processing file: {file_name}")
+  """Process all YAML files in the directory."""
+  yaml_files = sorted(
+      file_name for file_name in os.listdir(YAML_DIR) if file_name.endswith((".yaml", ".yml"))
+  )
+  for file_name in yaml_files:
+    file_path = os.path.join(YAML_DIR, file_name)
+    logging.info(f"Processing file: {file_name}")
 
-            # Read, update, and write back the YAML data
-            metrics_data = read_yaml(file_path)
-            update_metrics(metrics_data)
-            if metrics_data.touched:
-              write_yaml(metrics_data, file_path)
-              time.sleep(1)
-            sys.exit(0)
+    # Read, update, and write back the YAML data
+    metrics_data = read_yaml(file_path)
+    update_metrics(metrics_data)
+    if metrics_data.touched:
+      write_yaml(metrics_data, file_path)
+      time.sleep(1)
 
 if __name__ == "__main__":
     process_yaml_files()
