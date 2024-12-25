@@ -10,6 +10,12 @@ yaml = YAML()
 yaml.default_flow_style = False
 yaml.indent(mapping=2, sequence=4, offset=2)
 
+GITHUB_TOKEN = os.environ.get('GITHUB_API_TOKEN', None)
+if GITHUB_TOKEN is None:
+    print("Error: Github API token is missing")
+    print("Set GITHUB_API_TOKEN env variable")
+    sys.exit(1)
+
 YAML_DIR = "../data"
 STALE_METRIC_DAYS=10
 
@@ -92,13 +98,41 @@ def write_yaml(data: EcosystemProject, file_path: str):
     with open(file_path, "w") as file:
         yaml.dump(data.to_dict(), file)
 
+def update_github(metrics_data: EcosystemProject):
+    name = 'github'
+    link_prefix = 'https://github.com/';
+    [update, link] = metrics_data.get_metric(name)
+    if update and link.startswith(link_prefix):
+        data_link = link.replace(link_prefix, 'https://api.github.com/repos/')
+        headers = {
+            "Accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {GITHUB_TOKEN}",
+            "X-GitHub-Api-Version": "2022-11-28",
+        }
+        try:
+          response = requests.get(data_link, headers=headers)
+          if response.status_code == 200:
+            data_json = response.json()
+            value = data_json.get("stargazers_count", None)
+            if value is not None:
+                metrics_data.set_metric(name, value)
+
+            last_update = data_json.get("pushed_at", None)
+            if last_update is not None:
+                metrics_data.set_metric("github_pushed_at", int(datetime.fromisoformat(last_update).timestamp()))
+        except:
+            pass
+
 def update_discord(metrics_data: EcosystemProject):
     name = 'discord'
+    link_prefix = 'https://discord.com/invite/'
     [update, link] = metrics_data.get_metric(name)
-    if update and link.startswith('https://discord.com/invite/'):
+    if update and link.startswith(link_prefix):
       # link: https://discord.com/invite/cE72GYcFgY
       # data: https://discord.com/api/v10/invites/cE72GYcFgY?with_counts=true&with_expiration=true
-      data_link = link.replace('https://discord.com/invite/', 'https://discord.com/api/v10/invites/') + '?with_counts=true&with_expiration=true'
+      # guild.icon = dc2b4ee9885f6ba04adbc5a80aa7dd70
+      # https://cdn.discordapp.com/icons/849331368558198803/dc2b4ee9885f6ba04adbc5a80aa7dd70.webp?size=128
+      data_link = link.replace(link_prefix, 'https://discord.com/api/v10/invites/') + '?with_counts=true&with_expiration=true'
       try:
           response = requests.get(data_link)
           if response.status_code == 200:
@@ -110,6 +144,7 @@ def update_discord(metrics_data: EcosystemProject):
 
 def update_metrics(metrics_data: EcosystemProject):
     update_discord(metrics_data=metrics_data)
+    update_github(metrics_data=metrics_data)
 
 def process_yaml_files():
     """Process all YAML files in the directory."""
