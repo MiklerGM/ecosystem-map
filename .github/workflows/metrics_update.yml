@@ -23,6 +23,8 @@ jobs:
         working-directory: ./scripts
         run: pip install -r requirements.txt
 
+      - run: env
+
       - name: Collecting Metrics
         working-directory: ./scripts
         run: python metrics.py
