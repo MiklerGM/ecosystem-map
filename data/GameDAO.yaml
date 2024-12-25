@@ -25,6 +25,10 @@ web:
   twitter: gameDAOco
   discord: https://discord.com/invite/YyrN6H6pvC
   contact: support@gamedao.co
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

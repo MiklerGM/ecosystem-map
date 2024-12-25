@@ -17,6 +17,10 @@ web:
   logo: default.png
   site: https://www.gmordie.com
   twitter: GmOrDie_
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

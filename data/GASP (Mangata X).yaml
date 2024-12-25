@@ -21,6 +21,10 @@ web:
   site: https://www.mangata.finance/
   twitter: Gasp_xyz
   discord: https://discord.com/invite/mangata
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

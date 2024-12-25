@@ -18,6 +18,10 @@ web:
   site: https://gafi.network/
   twitter: GafiNetwork
   contact: hello@grindy.io
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

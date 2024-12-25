@@ -19,6 +19,10 @@ web:
   site: https://hashed.network/
   twitter: HashedNetwork
   contact: https://hashed.network/contact/
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

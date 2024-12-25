@@ -176,11 +176,9 @@ properties:
 
   treasury_funded:
     type: boolean
-    additionalProperties: false
 
   audit:
     type: boolean
-    additionalProperties: false
 
 required:
   - name

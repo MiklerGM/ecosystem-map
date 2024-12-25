@@ -18,6 +18,10 @@ web:
   logo: default.png
   site: https://heal3.com/
   twitter: Heal3official
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
