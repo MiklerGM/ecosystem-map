@@ -37,8 +37,6 @@ properties:
         type: string
       contact:
         type: string
-      github:
-        type: string
       documentation:
         type: string
       playstore:
