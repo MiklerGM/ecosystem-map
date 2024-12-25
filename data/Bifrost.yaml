@@ -21,6 +21,10 @@ web:
   twitter: BifrostFinance
   discord: https://discord.com/invite/8DRBw2h5X4
   contact: hello@bifrost.finance
+  github: https://github.com/bifrost-io/bifrost
+  documentation: https://docs.bifrost.io
+treasury_funded: true
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

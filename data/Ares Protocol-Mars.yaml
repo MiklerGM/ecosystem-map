@@ -5,7 +5,7 @@ category:
 description: decentralized cross-chain oracle
 readiness:
   business: Scaling/Alliance
-  technology: In development
+  technology: Discontinued
 target_audience:
   - Dev teams
   - Startup
@@ -21,6 +21,10 @@ web:
   twitter: AresProtocolLab
   discord: https://discord.com/invite/cqduK4ZNaY
   contact: info@aresprotocol.io
+  github: https://github.com/aresprotocols/ares
+  documentation: https://docs.aresprotocol.io/#/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

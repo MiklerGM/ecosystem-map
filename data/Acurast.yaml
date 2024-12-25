@@ -5,7 +5,7 @@ category:
   - Data
 description: Decentralized Serverless Cloud protocol
 readiness:
-  technology: Validated POC / testnet
+  technology: Connected to Relay chain
 target_audience:
   - Dev teams
   - Startup
@@ -23,6 +23,10 @@ web:
   twitter: Acurast
   discord: https://discord.com/invite/wqgC6b6aKe
   contact: hi@acurast.com
+  github: https://github.com/Acurast/acurast-substrate
+  documentation: https://docs.acurast.com
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

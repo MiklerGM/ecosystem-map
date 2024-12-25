@@ -18,6 +18,10 @@ web:
   logo: default.png
   site: https://www.deepbrainchain.org/
   twitter: DeepBrainChain
+  github: https://github.com/DeepBrainChain/DeepBrainChain-MainChain
+  documentation: https://deepbrainchain.github.io/DBC-Wiki/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

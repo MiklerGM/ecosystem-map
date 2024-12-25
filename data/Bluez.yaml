@@ -19,6 +19,10 @@ web:
   logo: default.png
   site: https://bluez.app/
   twitter: BluezNFT
+  discord: https://discord.com/invite/pBKeTSpCJC
+  documentation: https://bluez.gitbook.io/bluez
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

@@ -25,6 +25,10 @@ web:
   twitter: DarwiniaNetwork
   discord: https://discord.com/invite/aQdK9H4MZS
   contact: hello@darwinia.network
+  github: https://github.com/darwinia-network/darwinia
+  documentation: https://docs.darwinia.network/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

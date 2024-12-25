@@ -22,6 +22,10 @@ web:
   twitter: CrustNetwork
   discord: https://discord.com/invite/Jbw2PAUSCR
   contact: https://docs.google.com/forms/d/e/1FAIpQLSesR1Wv5cLXFEVngDeAs1iU_SZMgHz9VUBTAVM7eVPk38yzPg/viewform
+  github: https://github.com/crustio/crust
+  documentation: https://wiki.crust.network/docs/en/crustOverview
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

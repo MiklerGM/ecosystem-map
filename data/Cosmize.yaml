@@ -10,7 +10,7 @@ description: |-
   Astar Network, metaverse
 readiness:
   business: Business concept/low adoption
-  technology: Connected to Parachain
+  technology: Discontinued
 target_audience:
   - Established corp
   - Community DAO
@@ -26,6 +26,9 @@ web:
   site: https://www.cosmize.io/
   twitter: cosmize_io
   contact: contact@cosmize.io
+  documentation: https://cosmize.gitbook.io/cosmize
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

@@ -2,6 +2,7 @@ name: Deeper Network
 category:
   - Data
   - Privacy
+  - DePIN
 description: security- and privacy-first network and devices
 readiness:
   business: Verified in market/high adoption
@@ -18,6 +19,10 @@ web:
   twitter: deeper_network
   discord: https://discord.com/invite/EWUyAJyH2B
   contact: marketing@deeper.network
+  github: https://github.com/deeper-chain/deeper-chain
+  documentation: https://deeper-network-inc.gitbook.io/deeper-connect-knowledge-base
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

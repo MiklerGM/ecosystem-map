@@ -21,6 +21,10 @@ web:
   twitter: one_frequency
   discord: https://discord.com/invite/JchmHX5afV
   contact: info@frequency.xyz
+  github: https://github.com/frequency-chain/frequency
+  documentation: https://www.frequency.xyz/docs/
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

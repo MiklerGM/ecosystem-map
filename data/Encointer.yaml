@@ -3,8 +3,7 @@ category:
   - Wallet
   - Privacy
   - DeFi
-description: cryptocurrency for universal basic income and self-sovereign
-  identity system, wallet
+description: cryptocurrency for universal basic income and self-sovereign identity system, wallet
 readiness:
   business: Verified in market/high adoption
   technology: Connected to Relay chain
@@ -22,6 +21,10 @@ web:
   site: https://encointer.org/
   twitter: encointer
   contact: https://encointer.org/contact-us/
+  github: https://github.com/encointer/encointer-node
+  documentation: https://book.encointer.org/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

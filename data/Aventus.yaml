@@ -1,15 +1,17 @@
 name: Aventus
 category:
-  - Wallet
   - Validator provider
+  - DeFi
   - API
   - Indexer
-description: Solution for enterprise - wallet, staking, governance, block explorer, APIs
+  - EVM
+  - Smart Contracts
+description: STurnkey protocol solution for enterprises
 readiness:
   technology: Connected to Relay chain
 target_audience:
-  - Institutional investors
   - Startup
+  - Established corp
 ecosystem:
   - Polkadot
 layer:
@@ -20,6 +22,10 @@ web:
   twitter: AventusNetwork
   discord: https://discord.com/invite/Q4MmEfdjMp
   contact: info@aventus.io
+  github: https://github.com/AventusProtocolFoundation/avn-parachain
+  documentation: https://aventusprotocolfoundation.github.io/docs/intro
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

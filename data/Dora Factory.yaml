@@ -25,7 +25,12 @@ web:
   logo: Dora Factory.jpg
   site: https://dorafactory.org/
   twitter: DoraFactory
+  discord: https://discord.com/invite/gKT5DsWwQ5
   contact: support@dorafactory.org
+  github: https://github.com/DoraFactory/cosmwasm-maci
+  documentation: https://docs.dorafactory.org/docs
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

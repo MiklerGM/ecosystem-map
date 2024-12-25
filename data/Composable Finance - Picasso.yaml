@@ -27,6 +27,10 @@ web:
   twitter: ComposableFin
   discord: https://discord.com/invite/composable
   contact: https://docs.google.com/forms/d/e/1FAIpQLSc29Jwg0VAJdFB9_NZ2IvH6HVX8Af7XqiyVt2LUxecn5Ilosw/viewform
+  github: https://github.com/ComposableFi/composable
+  documentation: https://docs.picasso.network/
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

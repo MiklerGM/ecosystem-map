@@ -1,0 +1,31 @@
+name: Mandala Chain
+category:
+  - DeFi
+  - Data
+  - EVM
+  - Smart Contracts
+  - Wallet
+  - Privacy
+description: Where Government & Enterprise Applications Integrate Seamlessly with Public & Retail Applications.
+readiness:
+  business: Scaling/Alliance
+  technology: In development
+target_audience:
+  - Startup
+  - Governmental org
+  - Community DAO
+ecosystem:
+  - Polkadot
+layer:
+  - Layer-2
+web:
+  logo: default.png
+  site: https://www.mandalachain.io/
+  twitter: MandalaChain
+  discord: https://discord.com/invite/uzCWJmH6TP
+  contact: 
+  github: https://github.com/MandalaChain/Mandala-Node
+  documentation: https://docs.mandalachain.io/mandalachain
+treasury_funded: false
+audit: true
+metrics:

@@ -18,6 +18,10 @@ web:
   site: https://equilibrium.io/
   twitter: EquilibriumDeFi
   discord: https://discord.com/invite/p2FmYuW5Hu
+  github: https://github.com/equilibrium-eosdt/equilibrium-substrate-chain
+  documentation: https://docs.equilibrium.io/
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

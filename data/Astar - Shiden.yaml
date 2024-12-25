@@ -21,6 +21,10 @@ web:
   twitter: AstarNetwork
   discord: https://discord.com/invite/astarnetwork
   contact: https://48plu9nrgbf.typeform.com/to/Z9EpmvwP
+  github: https://github.com/AstarNetwork/Astar
+  documentation: https://docs.astar.network/
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

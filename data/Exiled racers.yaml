@@ -3,7 +3,7 @@ category:
   - Game
 description: Game (predictions, racing)
 readiness:
-  technology: In production
+  technology: Connected to Parachain
 target_audience:
   - Individuals
 ecosystem:
@@ -14,6 +14,11 @@ web:
   logo: default.png
   site: https://www.exiledracers.com/
   twitter: exiledracers
+  discord: https://discord.com/invite/exiledracers
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

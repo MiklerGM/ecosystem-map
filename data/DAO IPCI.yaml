@@ -6,7 +6,7 @@ category:
 description: Blockchain technology for carbon markets, environmental assets and liabilities
 readiness:
   business: Business concept/low adoption
-  technology: Connected to Relay chain
+  technology: Validated POC / testnet
 target_audience:
   - Established corp
   - Research institute
@@ -21,6 +21,9 @@ web:
   site: https://ipci.io/
   twitter: DAO_IPCI
   contact: info@ipci.io
+  github: https://github.com/DAO-IPCI/DAO-IPCI
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

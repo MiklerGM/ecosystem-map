@@ -17,6 +17,11 @@ web:
   logo: default.png
   site: https://www.algem.io/
   twitter: Algem_io
+  discord: https://discord.com/invite/Y7fQNdevV2
+  github: https://github.com/AlgemDeFi/algem-contracts
+  documentation: https://docs.algem.io
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

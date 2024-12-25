@@ -21,6 +21,8 @@ web:
   site: https://beatport.io/
   twitter: btprtio
   contact: partnerships@beatport.io
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

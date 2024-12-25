@@ -13,7 +13,9 @@ web:
   logo: BanDot.jpg
   site: https://github.com/bandotio
   twitter: hellobandot
-metrics:
+  github: https://github.com/bandotio/GameLand
+treasury_funded: false
+audit: falsemetrics:
   twitter:
     - date: 2023-12-31
       value: 10526

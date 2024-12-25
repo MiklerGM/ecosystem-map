@@ -37,6 +37,16 @@ properties:
         type: string
       contact:
         type: string
+      github:
+        type: string
+      documentation:
+        type: string
+      playstore:
+        type: string
+      appstore:
+        type: string
+      webstore:
+        type: string
     required:
       - site
       - logo
@@ -113,6 +123,7 @@ properties:
         - Dapp
         - Data
         - DeFi
+        - DePIN
         - EVM
         - Exchange
         - Game
@@ -164,6 +175,14 @@ properties:
         $ref: "#/definitions/record"
       app_downloads:
         $ref: "#/definitions/record"
+
+  treasury_funded:
+    type: boolean
+    additionalProperties: false
+
+  audit:
+    type: boolean
+    additionalProperties: false
 
 required:
   - name

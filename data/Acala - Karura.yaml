@@ -25,6 +25,10 @@ web:
   twitter: AcalaNetwork
   discord: https://discord.com/invite/amxDHYvy
   contact: hello@acala.network
+  github: https://github.com/AcalaNetwork/Acala
+  documentation: https://wiki.acala.network
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

@@ -10,7 +10,8 @@ target_audience:
   - Startup
   - Dev teams
   - Individuals
-ecosystem: []
+ecosystem: 
+  - Polkadot
 layer:
   - Layer-1
   - Layer-2
@@ -19,6 +20,10 @@ web:
   site: https://diora.network/
   twitter: DioraNetwork
   discord: https://discord.com/invite/2bVwpwF9aq
+  github: https://github.com/Diora-Network/Diora
+  documentation: 
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

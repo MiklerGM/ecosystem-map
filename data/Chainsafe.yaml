@@ -23,7 +23,12 @@ web:
   logo: Chainsafe.jpg
   site: https://chainsafe.io/
   twitter: ChainSafeth
+  discord: https://discord.com/invite/xSAwrnCWcg
   contact: info@chainsafe.io
+  github: https://github.com/ChainSafe/gossamer
+  documentation: http://gossamer.chainsafe.io
+treasury_funded: true
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

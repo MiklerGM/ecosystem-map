@@ -19,6 +19,10 @@ web:
   twitter: bittensor_
   discord: https://discord.com/invite/qasY3HA9F9
   contact: hi@bluefin.io
+  github: https://github.com/opentensor/bittensor
+  documentation: https://docs.bittensor.com
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

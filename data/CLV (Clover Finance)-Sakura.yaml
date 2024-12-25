@@ -26,6 +26,10 @@ web:
   twitter: clv_org
   discord: https://discord.com/invite/M6SxuXqMVB
   contact: info@clover.finance
+  github: https://github.com/clover-network/clover
+  documentation: https://docs.clv.org/clv-chain-developer-guide/introduction
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

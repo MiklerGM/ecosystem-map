@@ -19,6 +19,10 @@ web:
   logo: default.png
   site: https://www.datahighway.com/
   twitter: DataHighway_DHX
+  github: https://github.com/DataHighway-DHX/node
+  documentation: https://github.com/DataHighway-DHX/documentation
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

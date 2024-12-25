@@ -22,7 +22,12 @@ web:
   logo: default.png
   site: https://beamswap.io/
   twitter: Beamswapio
+  discord: https://discord.com/invite/g38NH5TqQg
   contact: info@beamswap.io
+  github: https://github.com/BeamSwap/beamswap-tokenlist
+  documentation: https://docs.beamswap.io
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

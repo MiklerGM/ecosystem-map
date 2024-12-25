@@ -21,6 +21,10 @@ web:
   twitter: BitDotCountry
   discord: https://discord.com/invite/PaMAXZZ59N
   contact: https://forms.zohopublic.com/industryconnect/form/BCMNEcosystemPartner/formperma/0tovB7pdQ3lh1b808uro4OAG04ZdCRO70ld8HItv0Ek
+  github: https://github.com/bit-country/Metaverse-Network
+  documentation: https://support.metaverse.network/portal/en/kb/bit-country
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

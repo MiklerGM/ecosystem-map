@@ -12,7 +12,8 @@ target_audience:
   - Dev teams
   - Startup
   - Personal investors
-ecosystem: []
+ecosystem: 
+  - Polkadot
 layer:
   - Layer-1
 web:
@@ -20,6 +21,10 @@ web:
   site: https://github.com/DICO-TEAM/dico-chain
   twitter: DICONetwork
   discord: https://discord.com/invite/V2MASPX3Ra
+  github: https://github.com/DICO-TEAM/dico-chain
+  documentation: 
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

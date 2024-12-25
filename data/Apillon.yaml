@@ -2,6 +2,7 @@ name: Apillon
 category:
   - Infra
   - API
+  - Smart Contracts
 description: unified API endpoints to web3 services
 readiness:
   business: Verified in market/high adoption
@@ -19,7 +20,12 @@ web:
   logo: Apillon.jpg
   site: https://apillon.io
   twitter: Apillon
+  discord: https://discord.com/invite/yX3gTw36C4
   contact: https://apillon.io/contact
+  github: https://github.com/Apillon/sdk
+  documentation: https://wiki.apillon.io
+treasury_funded: true
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

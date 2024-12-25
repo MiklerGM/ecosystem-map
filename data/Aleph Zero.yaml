@@ -21,6 +21,10 @@ web:
   twitter: Aleph__Zero
   discord: https://discord.com/invite/alephzero
   contact: hello@cardinals.cc
+  github: https://github.com/aleph-zero-foundation/AlephBFT
+  documentation: https://docs.alephzero.org/aleph-zero
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

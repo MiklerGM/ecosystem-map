@@ -19,6 +19,10 @@ web:
   site: https://kodadot.xyz/
   twitter: KodaDot
   contact: info@kodadot.xyz
+  github: https://github.com/kodadot/nft-gallery
+  documentation: https://hello.kodadot.xyz/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

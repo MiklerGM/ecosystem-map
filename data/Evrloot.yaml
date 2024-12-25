@@ -3,7 +3,7 @@ category:
   - Game
 description: Game (dark fantasy, storytelling)
 readiness:
-  technology: In production
+  technology: Connected to Parachain
 target_audience:
   - Individuals
 ecosystem:
@@ -15,6 +15,11 @@ web:
   logo: default.png
   site: https://evrloot.io/
   twitter: EVRL00T
+  discord: https://discord.com/invite/vYrRmk2Jpf
+  github: 
+  documentation: https://evrloot.notion.site/Evrloot-WIKI-21a24d9a8c0b45e7982870b4193ba0d6
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

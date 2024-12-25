@@ -24,6 +24,10 @@ web:
   site: https://edgewa.re/
   twitter: EdgewareDAO
   discord: https://discord.com/invite/bDktqyj
+  github: https://github.com/edgeware-network/Universal-Hybrid-Substrate-Faucet
+  documentation: https://docs.edgeware.wiki/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

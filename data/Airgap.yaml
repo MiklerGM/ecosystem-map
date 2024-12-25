@@ -1,9 +1,9 @@
 name: Airgap
 category:
   - Wallet
-description: non-custodial cold secure mobile wallet
+description: non-custodial mobile wallet. AirGap Vault handles your private key offline. Wallet companion communicates with blockchains.
 readiness:
-  technology: Validated POC / testnet
+  technology: In production
 target_audience:
   - Personal investors
   - Individuals
@@ -20,7 +20,12 @@ web:
   logo: Airgap.jpg
   site: https://airgap.it
   twitter: AirGap_it
+  discord: https://discord.com/invite/MG4jUEAJMr
   contact: hi@airgap.it
+  github: https://github.com/airgap-it/airgap-vault
+  documentation: https://support.airgap.it
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

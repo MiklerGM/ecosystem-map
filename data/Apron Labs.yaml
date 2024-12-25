@@ -5,7 +5,7 @@ category:
 description: API access to various blockchain networks
 readiness:
   business: Scaling/Alliance
-  technology: In development
+  technology: Discontinued
 target_audience:
   - Startup
   - Dev teams
@@ -19,6 +19,8 @@ web:
   twitter: apronofficial1
   discord: https://discord.com/invite/Bu6HzJP2YY
   contact: contact@apron.network
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

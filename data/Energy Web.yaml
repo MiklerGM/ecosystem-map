@@ -20,6 +20,10 @@ web:
   twitter: energywebx
   discord: https://discord.com/invite/psraNwqGqp
   contact: https://www.energyweb.org/book-a-demo/
+  github: https://github.com/energywebfoundation/origin
+  documentation: https://docs.energyweb.org/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

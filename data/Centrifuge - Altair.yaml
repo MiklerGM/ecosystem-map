@@ -18,6 +18,10 @@ web:
   twitter: centrifuge
   discord: https://discord.com/invite/yEzyUq5gxF
   contact: bizdev@centrifuge.io
+  github: https://github.com/centrifuge/apps
+  documentation: https://docs.centrifuge.io/getting-started/introduction/welcome/
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

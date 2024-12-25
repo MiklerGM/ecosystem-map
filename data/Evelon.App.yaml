@@ -7,7 +7,7 @@ category:
 description: no code platform that allows you to create and deploy dynamic NFTs with ease
 readiness:
   business: Business concept/low adoption
-  technology: Connected to Parachain
+  technology: Discontinued
 target_audience:
   - Dev teams
   - Startup
@@ -21,6 +21,10 @@ web:
   site: https://www.evelon.app/
   twitter: EvelonApp
   contact: team@evelon.app
+  github: 
+  documentation: https://docs.evelon.app/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

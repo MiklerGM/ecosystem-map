@@ -4,7 +4,7 @@ category:
 description: orderbook-based derivatives exchange
 readiness:
   business: Verified in market/high adoption
-  technology: In development
+  technology: In production
 target_audience:
   - Personal investors
   - Institutional investors
@@ -16,6 +16,11 @@ web:
   logo: default.png
   site: https://bluefin.io/
   twitter: bluefinapp
+  discord: https://discord.com/invite/bluefinapp
+  github: https://github.com/fireflyprotocol/bluefin-v2-client-ts
+  documentation: https://learn.bluefin.io/bluefin
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

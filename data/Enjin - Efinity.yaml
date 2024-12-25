@@ -27,6 +27,10 @@ web:
   twitter: enjin
   discord: https://discord.com/invite/7scUTVVhdT
   contact: contact@enjin.io
+  github: https://github.com/enjin/platform
+  documentation: https://docs.enjin.io/docs/quick-start-guide
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
