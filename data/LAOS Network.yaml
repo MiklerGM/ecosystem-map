@@ -1,11 +1,10 @@
 name: LAOS Network
 category:
-  - game
-  - NFT
   - EVM
+  - Game
+  - NFT
 description: The Universal Layer-1 for Digital Assets Across All Blockchains
 readiness:
-  business: 
   technology: In development
 target_audience:
   - Dev teams
@@ -15,7 +14,7 @@ ecosystem:
 layer:
   - Layer-1
 web:
-  logo: 
+  logo: default.png
   site: laosnetwork.io
   twitter: laosnetwork
   discord: discord.gg/HgnVEYfX2V
