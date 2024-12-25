@@ -13,8 +13,6 @@ web:
   logo: default.png
   site: https://dotscanner.com/
   twitter: TheDotScanner
-  github: 
-  documentation: 
 treasury_funded: false
 audit: false
 metrics:

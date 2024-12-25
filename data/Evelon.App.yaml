@@ -21,7 +21,6 @@ web:
   site: https://www.evelon.app/
   twitter: EvelonApp
   contact: team@evelon.app
-  github: 
   documentation: https://docs.evelon.app/
 treasury_funded: false
 audit: false

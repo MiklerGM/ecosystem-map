@@ -15,8 +15,6 @@ web:
   site: https://www.exiledracers.com/
   twitter: exiledracers
   discord: https://discord.com/invite/exiledracers
-  github: 
-  documentation: 
 treasury_funded: false
 audit: false
 metrics:

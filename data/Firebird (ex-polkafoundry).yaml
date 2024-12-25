@@ -24,8 +24,6 @@ web:
   site: https://redkitepad.com/#/
   twitter: redkitepad
   contact: info@redkitepad.com
-  github: 
-  documentation: 
 treasury_funded: false
 audit: false
 metrics:

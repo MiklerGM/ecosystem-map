@@ -22,7 +22,6 @@ web:
   twitter: DICONetwork
   discord: https://discord.com/invite/V2MASPX3Ra
   github: https://github.com/DICO-TEAM/dico-chain
-  documentation: 
 treasury_funded: false
 audit: false
 metrics:
