@@ -23,8 +23,8 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2023-12-31
-      value: 38638
+    - date: 2024-12-25
+      value: 41783
   blog:
     - date: 2023-12-31
       value: 13282

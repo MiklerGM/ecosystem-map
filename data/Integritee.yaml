@@ -32,8 +32,8 @@ metrics:
     - date: 2023-12-31
       value: 75
   discord:
-    - date: 2023-12-31
-      value: 3331
+    - date: 2024-12-25
+      value: 3191
   blog:
     - date: 2023-12-31
       value: 2500

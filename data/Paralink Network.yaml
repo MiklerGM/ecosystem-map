@@ -29,7 +29,7 @@ metrics:
     - date: 2023-12-31
       value: 4
   discord:
-    - date: 2023-12-31
-      value: 130
+    - date: 2024-12-25
+      value: 111
   blog: []
   app_downloads: []
