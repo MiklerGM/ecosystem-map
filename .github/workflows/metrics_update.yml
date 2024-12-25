@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 1 * *'
+env:
+  API_GITHUB_TOKEN: ${{ vars.API_GITHUB_TOKEN }}
 
 permissions:
   contents: write
@@ -26,8 +28,6 @@ jobs:
       - name: Collecting Metrics
         working-directory: ./scripts
         run: python metrics.py
-        env:
-          API_GITHUB_TOKEN: "${{ env.API_GITHUB_TOKEN }}"
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
