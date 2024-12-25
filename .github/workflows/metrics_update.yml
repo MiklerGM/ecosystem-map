@@ -23,11 +23,11 @@ jobs:
         working-directory: ./scripts
         run: pip install -r requirements.txt
 
-      - run: env
-
       - name: Collecting Metrics
         working-directory: ./scripts
         run: python metrics.py
+        env:
+          API_GITHUB_TOKEN: "${{ env.API_GITHUB_TOKEN }}"
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
