@@ -15,7 +15,8 @@ web:
   twitter: hellobandot
   github: https://github.com/bandotio/GameLand
 treasury_funded: false
-audit: falsemetrics:
+audit: false
+metrics:
   twitter:
     - date: 2023-12-31
       value: 10526
