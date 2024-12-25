@@ -191,9 +191,9 @@ def process_yaml_files():
         for file_name in os.listdir(YAML_DIR)
         if file_name.endswith((".yaml", ".yml"))
     )
-    for file_name in yaml_files:
+    for count, file_name in enumerate(yaml_files):
         file_path = os.path.join(YAML_DIR, file_name)
-        logging.info(f"Processing file: {file_name}")
+        logging.info(f"Processing file {count} of {len(yaml_files)}: {file_name}")
 
         # Read, update, and write back the YAML data
         metrics_data = read_yaml(file_path)
