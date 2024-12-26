@@ -28,6 +28,10 @@ jobs:
       - name: Collecting Metrics
         working-directory: ./scripts
         run: python metrics.py
+      
+      - name: Update markdown
+        working-directory: ./scripts
+        run: python render_map.py > ../ecosystem_map.md
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
@@ -35,4 +39,5 @@ jobs:
           title: Metrics update 
           add-paths: |
             data/*
+            *.md
 

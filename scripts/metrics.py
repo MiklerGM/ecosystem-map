@@ -40,8 +40,8 @@ class MetricEntry:
 
     def update_value(self, new_value: int):
         if self.value != new_value:
-          self.value = new_value
-          self.update_date()
+            self.value = new_value
+            self.update_date()
 
     @classmethod
     def from_dict(cls, data: dict):
