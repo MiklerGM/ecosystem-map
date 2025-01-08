@@ -25,11 +25,11 @@ web:
   logo: Manta Network - Calamari.jpg
   site: https://www.manta.network/
   twitter: MantaNetwork
-  discord: https://discord.com/invite/mantanetwork 
+  discord: https://discord.com/invite/mantanetwork
   github: https://github.com/Manta-Network/Manta
   documentation: https://docs.manta.network/docs/Introduction
 treasury_funded: false
-audit: true  
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
@@ -38,10 +38,13 @@ metrics:
     - date: 2023-12-31
       value: 586
   github:
-    - date: 2023-12-31
-      value: 92
+    - date: 2025-01-08
+      value: 239
   discord:
-    - date: 2024-12-25
-      value: 206435
+    - date: 2025-01-08
+      value: 204456
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1731424873

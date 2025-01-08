@@ -19,15 +19,18 @@ web:
   contact: hello@metaquity.xyz
   github: https://github.com/PhykenNetwork/phyken-investor-app
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 862
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 1
+    - date: 2025-01-08
+      value: 0
   discord: []
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1709841950

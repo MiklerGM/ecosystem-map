@@ -20,14 +20,17 @@ web:
   appstore: https://apps.apple.com/de/app/polkadot-vault-parity-signer/id1218174838
   playstore: https://play.google.com/store/apps/details?id=io.parity.signer
 treasury_funded: false
-audit: true 
+audit: true
 metrics:
   twitter: []
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 462
+    - date: 2025-01-08
+      value: 563
   blog: []
   app_downloads:
     - date: 2023-12-31
       value: 10000
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1734000911

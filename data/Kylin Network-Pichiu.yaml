@@ -25,7 +25,7 @@ web:
   discord: https://discord.com/invite/PwYCssr
   github: https://github.com/Kylin-Network/kylin-collator
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -37,9 +37,12 @@ metrics:
     - date: 2023-12-31
       value: 41
   discord:
-    - date: 2024-12-25
-      value: 4337
+    - date: 2025-01-08
+      value: 4338
   blog:
     - date: 2023-12-31
       value: 3300
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1682355069

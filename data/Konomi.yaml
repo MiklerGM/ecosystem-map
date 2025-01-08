@@ -2,7 +2,8 @@ name: Konomi
 category:
   - Oracle
   - DeFi
-description: Cross-chain Oracle Machine with P2P lending module and one-stop asset management solution
+description: Cross-chain Oracle Machine with P2P lending module and one-stop asset
+  management solution
 readiness:
   business: Verified in market/high adoption
   technology: Discontinued
@@ -20,7 +21,7 @@ web:
   twitter: KonomiNetwork
   github: https://github.com/konomi-network/konomi-node
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -34,3 +35,6 @@ metrics:
     - date: 2023-12-31
       value: 1876
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1619794681

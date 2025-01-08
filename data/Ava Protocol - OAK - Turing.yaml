@@ -29,19 +29,22 @@ web:
   github: https://github.com/AvaProtocol/OAK-blockchain
   documentation: https://avaprotocol.org/docs/ethereum/getting-started/introduction
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 30035
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 35
+    - date: 2025-01-08
+      value: 112
   discord:
-    - date: 2024-12-25
-      value: 18024
+    - date: 2025-01-08
+      value: 17930
   blog:
     - date: 2023-12-31
       value: 40
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1724033284

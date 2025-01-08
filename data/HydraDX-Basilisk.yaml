@@ -25,19 +25,22 @@ web:
   github: https://github.com/galacticcouncil/hydration-node
   documentation: https://docs.hydration.net
 treasury_funded: false
-audit: true  
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
       value: 30116
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 156
+    - date: 2025-01-08
+      value: 174
   discord:
-    - date: 2024-12-25
-      value: 5501
+    - date: 2025-01-08
+      value: 5557
   blog:
     - date: 2023-12-31
       value: 44
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1736334956

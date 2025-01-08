@@ -22,7 +22,8 @@ web:
   site: https://crust.network/
   twitter: CrustNetwork
   discord: https://discord.com/invite/Jbw2PAUSCR
-  contact: https://docs.google.com/forms/d/e/1FAIpQLSesR1Wv5cLXFEVngDeAs1iU_SZMgHz9VUBTAVM7eVPk38yzPg/viewform
+  contact: 
+    https://docs.google.com/forms/d/e/1FAIpQLSesR1Wv5cLXFEVngDeAs1iU_SZMgHz9VUBTAVM7eVPk38yzPg/viewform
   github: https://github.com/crustio/crust
   documentation: https://wiki.crust.network/docs/en/crustOverview
 treasury_funded: false
@@ -35,15 +36,15 @@ metrics:
     - date: 2023-12-31
       value: 1700
   github:
-    - date: 2024-12-25
-      value: 513
+    - date: 2025-01-08
+      value: 514
   discord:
-    - date: 2024-12-25
-      value: 7175
+    - date: 2025-01-08
+      value: 7137
   blog:
     - date: 2023-12-31
       value: 3800
   app_downloads: []
   github_pushed_at:
-    - date: 2024-12-25
-      value: 1734955645
+    - date: 2025-01-08
+      value: 1736295451

@@ -27,19 +27,22 @@ web:
   github: https://github.com/pendulum-chain/pendulum
   documentation: https://pendulum.gitbook.io/pendulum-docs
 treasury_funded: false
-audit: true  
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
       value: 53000
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 11
+    - date: 2025-01-08
+      value: 42
   discord:
-    - date: 2024-12-25
-      value: 2353
+    - date: 2025-01-08
+      value: 2364
   blog:
     - date: 2023-12-31
       value: 442
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1736334895

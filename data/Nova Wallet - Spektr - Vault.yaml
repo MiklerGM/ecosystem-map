@@ -32,7 +32,7 @@ web:
   playstore: https://play.google.com/store/apps/details?id=io.novafoundation.nova.market
   appstore: https://apps.apple.com/us/app/nova-polkadot-wallet/id1597119355
 treasury_funded: true
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -41,8 +41,8 @@ metrics:
     - date: 2023-12-31
       value: 426
   github:
-    - date: 2023-12-31
-      value: 14
+    - date: 2025-01-08
+      value: 40
   discord: []
   blog:
     - date: 2023-12-31
@@ -50,3 +50,6 @@ metrics:
   app_downloads:
     - date: 2023-12-31
       value: 50000
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1736334080

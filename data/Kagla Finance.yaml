@@ -22,7 +22,7 @@ web:
   github: https://github.com/kagla-finance/kagla-api
   documentation: https://docs.kagla.finance
 treasury_funded: false
-audit: true  
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
@@ -36,3 +36,6 @@ metrics:
     - date: 2023-12-31
       value: 785
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1734075821

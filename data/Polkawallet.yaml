@@ -30,17 +30,20 @@ web:
   playstore: https://play.google.com/store/apps/details?id=io.polkawallet.www.polka_wallet
   documentation: https://wiki.polkawallet.app/
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 11289
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 124
+    - date: 2025-01-08
+      value: 153
   discord: []
   blog: []
   app_downloads:
     - date: 2023-12-31
       value: 100000
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1735213248

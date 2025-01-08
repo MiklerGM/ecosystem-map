@@ -26,7 +26,8 @@ web:
   site: http://composable.finance
   twitter: ComposableFin
   discord: https://discord.com/invite/composable
-  contact: https://docs.google.com/forms/d/e/1FAIpQLSc29Jwg0VAJdFB9_NZ2IvH6HVX8Af7XqiyVt2LUxecn5Ilosw/viewform
+  contact: 
+    https://docs.google.com/forms/d/e/1FAIpQLSc29Jwg0VAJdFB9_NZ2IvH6HVX8Af7XqiyVt2LUxecn5Ilosw/viewform
   github: https://github.com/ComposableFi/composable
   documentation: https://docs.picasso.network/
 treasury_funded: false
@@ -39,11 +40,11 @@ metrics:
     - date: 2023-12-31
       value: 320
   github:
-    - date: 2024-12-25
-      value: 122
+    - date: 2025-01-08
+      value: 123
   discord:
-    - date: 2024-12-25
-      value: 17662
+    - date: 2025-01-08
+      value: 17484
   blog:
     - date: 2023-12-31
       value: 1600

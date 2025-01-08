@@ -21,7 +21,7 @@ web:
   discord: https://discord.com/invite/QzaZAqJT6B
   contact: info@paralink.network
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

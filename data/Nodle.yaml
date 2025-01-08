@@ -26,7 +26,7 @@ web:
   playstore: https://play.google.com/store/apps/details?id=io.nodle.cash&hl=en&gl=US
   appstore: https://apps.apple.com/us/app/nodle-app-to-earn-crypto/id1480763553
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -35,12 +35,15 @@ metrics:
     - date: 2023-12-31
       value: 7400
   github:
-    - date: 2023-12-31
-      value: 94
+    - date: 2025-01-08
+      value: 188
   discord:
-    - date: 2024-12-25
-      value: 16814
+    - date: 2025-01-08
+      value: 16838
   blog:
     - date: 2023-12-31
       value: 1200
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1734374183

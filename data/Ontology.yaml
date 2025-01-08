@@ -30,7 +30,7 @@ web:
   github: https://github.com/ontio/ontology
   documentation: https://docs.ont.io/
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -39,10 +39,13 @@ metrics:
     - date: 2023-12-31
       value: 6000
   github:
-    - date: 2023-12-31
-      value: 816
+    - date: 2025-01-08
+      value: 830
   discord: []
   blog:
     - date: 2023-12-31
       value: 11700
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1732074126

@@ -19,7 +19,8 @@ web:
   site: https://bit.country/
   twitter: BitDotCountry
   discord: https://discord.com/invite/PaMAXZZ59N
-  contact: https://forms.zohopublic.com/industryconnect/form/BCMNEcosystemPartner/formperma/0tovB7pdQ3lh1b808uro4OAG04ZdCRO70ld8HItv0Ek
+  contact: 
+    https://forms.zohopublic.com/industryconnect/form/BCMNEcosystemPartner/formperma/0tovB7pdQ3lh1b808uro4OAG04ZdCRO70ld8HItv0Ek
   github: https://github.com/bit-country/Metaverse-Network
   documentation: https://support.metaverse.network/portal/en/kb/bit-country
 treasury_funded: false
@@ -32,11 +33,11 @@ metrics:
     - date: 2023-12-31
       value: 2320
   github:
-    - date: 2024-12-25
-      value: 165
+    - date: 2025-01-08
+      value: 167
   discord:
-    - date: 2024-12-25
-      value: 39597
+    - date: 2025-01-08
+      value: 39213
   blog:
     - date: 2023-12-31
       value: 8529

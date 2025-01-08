@@ -1,7 +1,8 @@
 name: Interlay / Kintsugi
 category:
   - DeFi
-description: Bitcoin DeFi Protocol. A Bitcoin-backed asset, fully collateralized, interoperable, and censorship-resistant
+description: Bitcoin DeFi Protocol. A Bitcoin-backed asset, fully collateralized,
+  interoperable, and censorship-resistant
 readiness:
   business: Scaling/Alliance
   technology: Connected to Relay chain
@@ -32,12 +33,15 @@ metrics:
     - date: 2023-12-31
       value: 218
   github:
-    - date: 2023-12-31
-      value: 177
+    - date: 2025-01-08
+      value: 249
   discord:
-    - date: 2024-12-25
-      value: 10389
+    - date: 2025-01-08
+      value: 10399
   blog:
     - date: 2023-12-31
       value: 381
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1725448023

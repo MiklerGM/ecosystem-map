@@ -17,15 +17,18 @@ web:
   contact: hello@polkastats.io
   github: https://github.com/polkastats/polkastats
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 12784
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 20
+    - date: 2025-01-08
+      value: 23
   discord: []
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1706283560

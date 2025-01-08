@@ -24,7 +24,7 @@ web:
   github: https://github.com/polkastarter/polkastarter-js
   documentation: https://docs.polkastarter.com/
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -36,7 +36,10 @@ metrics:
     - date: 2023-12-31
       value: 25
   discord:
-    - date: 2024-12-25
-      value: 18621
+    - date: 2025-01-08
+      value: 18587
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1734443525

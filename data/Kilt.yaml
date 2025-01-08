@@ -27,7 +27,7 @@ web:
   github: https://github.com/KILTprotocol/sdk-js
   documentation: https://docs.kilt.io/#/
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -36,12 +36,15 @@ metrics:
     - date: 2023-12-31
       value: 1100
   github:
-    - date: 2023-12-31
-      value: 67
+    - date: 2025-01-08
+      value: 76
   discord:
-    - date: 2024-12-25
-      value: 1596
+    - date: 2025-01-08
+      value: 1605
   blog:
     - date: 2023-12-31
       value: 2200
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1736329370

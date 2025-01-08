@@ -24,7 +24,7 @@ web:
   github: https://github.com/peaqnetwork/peaq-network-node
   documentation: https://docs.peaq.network/docs/quick-start/what-is-peaq/
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -33,12 +33,15 @@ metrics:
     - date: 2023-12-31
       value: 142
   github:
-    - date: 2023-12-31
-      value: 6
+    - date: 2025-01-08
+      value: 62
   discord:
-    - date: 2024-12-25
-      value: 148531
+    - date: 2025-01-08
+      value: 157795
   blog:
     - date: 2023-12-31
       value: 30
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1736262703

@@ -27,7 +27,7 @@ web:
   github: https://github.com/litentry/heima
   documentation: https://docs.litentry.com/parachain/introduction
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -36,8 +36,8 @@ metrics:
     - date: 2023-12-31
       value: 803
   github:
-    - date: 2023-12-31
-      value: 38
+    - date: 2025-01-08
+      value: 63
   discord:
     - date: 2023-12-31
       value: 31427
@@ -45,3 +45,6 @@ metrics:
     - date: 2023-12-31
       value: 4905
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1736321068

@@ -30,7 +30,7 @@ web:
   discord: https://discord.com/invite/InvArch
   github: https://github.com/Abstracted-Labs/InvArch
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -39,8 +39,8 @@ metrics:
     - date: 2023-12-31
       value: 236
   github:
-    - date: 2023-12-31
-      value: 27
+    - date: 2025-01-08
+      value: 47
   discord:
     - date: 2024-12-25
       value: 30211
@@ -48,3 +48,6 @@ metrics:
     - date: 2023-12-31
       value: 1000
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1736184510

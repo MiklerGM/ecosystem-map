@@ -25,7 +25,7 @@ web:
   github: https://github.com/Phala-Network/phala-blockchain
   documentation: https://docs.phala.network
 treasury_funded: false
-audit: true  
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
@@ -34,8 +34,8 @@ metrics:
     - date: 2023-12-31
       value: 4600
   github:
-    - date: 2023-12-31
-      value: 305
+    - date: 2025-01-08
+      value: 344
   discord:
     - date: 2025-01-01
       value: 13
@@ -43,3 +43,6 @@ metrics:
     - date: 2023-12-31
       value: 2300
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1734464884

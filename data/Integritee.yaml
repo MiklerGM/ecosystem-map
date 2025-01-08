@@ -22,23 +22,26 @@ web:
   site: https://integritee.network/
   twitter: integri_t_e_e
   discord: https://discord.com/invite/anhtxwr4eS
-  contact: hello@integritee.network 
+  contact: hello@integritee.network
   github: https://github.com/integritee-network/worker
   documentation: https://docs.integritee.network/4-development
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 23519
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 75
+    - date: 2025-01-08
+      value: 90
   discord:
-    - date: 2024-12-25
-      value: 3191
+    - date: 2025-01-08
+      value: 3188
   blog:
     - date: 2023-12-31
       value: 2500
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1734961693

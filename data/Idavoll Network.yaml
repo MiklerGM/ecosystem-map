@@ -19,7 +19,7 @@ web:
   twitter: idavollDAO
   github: https://github.com/idavollnetwork/idavoll
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,3 +31,6 @@ metrics:
   discord: []
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1623841288

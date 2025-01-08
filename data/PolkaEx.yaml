@@ -23,7 +23,7 @@ web:
   github: https://github.com/PolkaEX/PolkaEx
   documentation: https://polkaex-1.gitbook.io/polkaex-documentation-1
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,7 +31,7 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2024-12-25
-      value: 3428
+    - date: 2025-01-08
+      value: 3426
   blog: []
   app_downloads: []

@@ -24,7 +24,7 @@ web:
   github: https://github.com/PolymeshAssociation/Polymesh
   documentation: https://developers.polymesh.network/
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -33,8 +33,8 @@ metrics:
     - date: 2023-12-31
       value: 5000
   github:
-    - date: 2023-12-31
-      value: 134
+    - date: 2025-01-08
+      value: 168
   discord: []
   blog:
     - date: 2023-12-31
@@ -42,3 +42,6 @@ metrics:
   app_downloads:
     - date: 2023-12-31
       value: 10000
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1736270944

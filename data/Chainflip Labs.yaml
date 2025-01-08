@@ -19,7 +19,8 @@ web:
   site: https://chainflip.io/
   twitter: Chainflip
   discord: https://discord.com/invite/chainflip-community
-  contact: https://docs.google.com/forms/d/e/1FAIpQLSeH-IXNGzcMNLNFFaTxWYcMXNPOeEQHSggs_5P9RASV22_WkQ/viewform
+  contact: 
+    https://docs.google.com/forms/d/e/1FAIpQLSeH-IXNGzcMNLNFFaTxWYcMXNPOeEQHSggs_5P9RASV22_WkQ/viewform
   github: https://github.com/chainflip-io/chainflip-backend
   documentation: https://docs.chainflip.io/concepts/welcome
 treasury_funded: false
@@ -38,5 +39,5 @@ metrics:
   blog: []
   app_downloads: []
   github_pushed_at:
-    - date: 2024-12-25
-      value: 1735043290
+    - date: 2025-01-08
+      value: 1736335007

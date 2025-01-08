@@ -20,13 +20,16 @@ web:
   github: https://github.com/polkadot-js/apps
   documentation: https://polkadot.js.org/docs/
 treasury_funded: false
-audit: false  
+audit: false
 metrics:
   twitter: []
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 1600
+    - date: 2025-01-08
+      value: 1765
   discord: []
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-08
+      value: 1736200072
