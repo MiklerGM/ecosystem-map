@@ -21,6 +21,10 @@ web:
   twitter: MoonsamaNFT
   discord: https://discord.com/invite/sA2ccnHPMC
   contact: https://moonsama.com/
+  documentation: https://docs.moonsama.com
+  github: https://github.com/moonsama/dev-resources
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

@@ -20,6 +20,10 @@ web:
   site: https://polkagate.xyz/
   twitter: PolkaGate
   contact: polkagate@outlook.com
+  github: https://github.com/PolkaGate/extension
+  webstore: https://chromewebstore.google.com/detail/polkagate-the-gateway-to/ginchbkmljhldofnbjabmeophlhdldgp
+treasury_funded: true
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

@@ -17,6 +17,10 @@ layer:
 web:
   logo: default.png
   site: https://github.com/polkadot-js
+  github: https://github.com/polkadot-js/apps
+  documentation: https://polkadot.js.org/docs/
+treasury_funded: false
+audit: false  
 metrics:
   twitter: []
   youtube: []

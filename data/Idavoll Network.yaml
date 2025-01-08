@@ -17,6 +17,9 @@ web:
   logo: default.png
   site: https://idavoll.network/
   twitter: idavollDAO
+  github: https://github.com/idavollnetwork/idavoll
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

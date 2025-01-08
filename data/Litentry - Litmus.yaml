@@ -3,7 +3,8 @@ category:
   - Data
   - Privacy
   - Aggregator
-description: decentralized identity aggregator
+  - EVM
+description: decentralized identity aggregator, identity oracle
 readiness:
   business: Scaling/Alliance
   technology: Connected to Relay chain
@@ -23,6 +24,10 @@ web:
   twitter: litentry
   discord: https://discord.com/invite/6KxSqDPgWh
   contact: info@litentry.com
+  github: https://github.com/litentry/heima
+  documentation: https://docs.litentry.com/parachain/introduction
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

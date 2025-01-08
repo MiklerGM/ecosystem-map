@@ -24,6 +24,10 @@ web:
   site: https://limechain.tech/
   twitter: LimeChainHQ
   contact: hi@limechain.tech
+  discord: https://discord.com/invite/95y4kzh5mJ
+  github: https://github.com/LimeChain/Fruzhin
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

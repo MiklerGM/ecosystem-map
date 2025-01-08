@@ -26,6 +26,11 @@ web:
   site: https://ont.io/
   twitter: OntologyNetwork
   contact: https://ont.io/contact/
+  discord: https://discord.com/invite/4SrrJy2zHe
+  github: https://github.com/ontio/ontology
+  documentation: https://docs.ont.io/
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

@@ -14,7 +14,13 @@ target_audience:
 layer: []
 web:
   logo: default.png
-  site: https://signer.parity.io/
+  site: https://vault.novasama.io/
+  github: https://github.com/novasamatech/parity-signer
+  documentation: https://wiki.polkadot.network/docs/polkadot-vault
+  appstore: https://apps.apple.com/de/app/polkadot-vault-parity-signer/id1218174838
+  playstore: https://play.google.com/store/apps/details?id=io.parity.signer
+treasury_funded: false
+audit: true 
 metrics:
   twitter: []
   youtube: []

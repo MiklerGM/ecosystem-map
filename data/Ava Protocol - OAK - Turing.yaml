@@ -1,4 +1,4 @@
-name: OAK / Turing
+name: Ava Protocol / OAK / Turing
 category:
   - DeFi
   - Smart Contracts
@@ -22,10 +22,14 @@ layer:
   - Layer-1
 web:
   logo: OAK - Turing.jpg
-  site: https://oak.tech/
-  twitter: oak_network
+  site: https://avaprotocol.org/
+  twitter: ava_protocol
   discord: https://discord.com/invite/7W9UDvsbwh
-  contact: contact@oak.tech
+  contact: contact@avaprotocol.org
+  github: https://github.com/AvaProtocol/OAK-blockchain
+  documentation: https://avaprotocol.org/docs/ethereum/getting-started/introduction
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

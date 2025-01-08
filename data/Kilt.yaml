@@ -24,6 +24,10 @@ web:
   twitter: Kiltprotocol
   discord: https://discord.com/invite/HztRqvzbhG
   contact: https://www.kilt.io/contact-us
+  github: https://github.com/KILTprotocol/sdk-js
+  documentation: https://docs.kilt.io/#/
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

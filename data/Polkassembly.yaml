@@ -24,6 +24,10 @@ web:
   site: https://polkadot.polkassembly.io/
   twitter: polkassembly
   discord: https://discord.com/invite/CYmYWHgPha
+  github: https://github.com/polkassembly/polkassembly
+  documentation: https://docs.polkassembly.io/
+treasury_funded: true
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

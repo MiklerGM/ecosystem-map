@@ -24,6 +24,10 @@ web:
   twitter: pendulum_chain
   discord: https://discord.com/invite/wJ2fQh776B
   contact: community@pendulumchain.org
+  github: https://github.com/pendulum-chain/pendulum
+  documentation: https://pendulum.gitbook.io/pendulum-docs
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

@@ -2,9 +2,7 @@ name: Heal3
 category:
   - Game
   - EVM
-description: |-
-  web3 #MovetoEarn app with Game-Fi elements on 
-  @AstarNetwork
+description: web3 MovetoEarn app with Game-Fi elements on AstarNetwork
 readiness:
   business: Business concept/low adoption
   technology: Connected to Parachain
@@ -17,7 +15,10 @@ layer:
 web:
   logo: default.png
   site: https://heal3.com/
+  discord: https://discord.com/invite/Cy6Wt8rGgc
   twitter: Heal3official
+  playstore: https://play.google.com/store/apps/details?id=com.healthree.healthreeMobileApp
+  appstore: https://apps.apple.com/us/app/healthree/id6449821527
 treasury_funded: false
 audit: false
 metrics:

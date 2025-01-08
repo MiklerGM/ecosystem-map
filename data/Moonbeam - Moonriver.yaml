@@ -23,6 +23,10 @@ web:
   twitter: MoonbeamNetwork
   discord: https://discord.com/invite/PfpUATX
   contact: https://moonbeam.network/contact/
+  github: https://github.com/moonbeam-foundation/moonbeam
+  documentation: https://docs.moonbeam.network
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

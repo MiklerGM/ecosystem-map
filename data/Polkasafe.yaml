@@ -18,6 +18,10 @@ layer:
 web:
   logo: default.png
   site: https://polkasafe.xyz
+  github: https://github.com/polkasafe/polkasafe-sdk
+  documentation: https://docs.polkasafe.xyz/
+treasury_funded: true
+audit: false  
 metrics:
   twitter: []
   youtube:

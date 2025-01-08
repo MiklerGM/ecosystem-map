@@ -21,6 +21,7 @@ web:
   site: https://www.mangata.finance/
   twitter: Gasp_xyz
   discord: https://discord.com/invite/mangata
+  documentation: https://docs.gasp.xyz
 treasury_funded: false
 audit: false
 metrics:

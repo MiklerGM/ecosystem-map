@@ -6,7 +6,7 @@ description: A cross-chain Dex and Launchpad on Polkadot with higher TPS and
   lower transaction fees
 readiness:
   business: Business concept/low adoption
-  technology: Connected to Parachain
+  technology: Discontinued
 target_audience:
   - Institutional investors
   - Personal investors
@@ -20,6 +20,10 @@ web:
   twitter: PolkaExOfficial
   discord: https://discord.com/invite/9dPacRKQyN
   contact: business@polkaex.io
+  github: https://github.com/PolkaEX/PolkaEx
+  documentation: https://polkaex-1.gitbook.io/polkaex-documentation-1
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

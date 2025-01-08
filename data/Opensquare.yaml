@@ -26,9 +26,12 @@ layer:
   - Layer-2
 web:
   logo: Opensquare.jpg
-  site: https://www.opensquare.network/products
+  site: https://www.opensquare.network/
   twitter: OpensquareN
   contact: hi@opensquare.network
+  github: https://github.com/opensquare-network/dotreasury
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

@@ -21,6 +21,11 @@ web:
   site: https://moonbeans.io/
   twitter: MoonbeansIO
   contact: contact@moonbeans.io
+  discord: https://discord.com/invite/qqE9aBPzQ9
+  github: https://github.com/m00nbeans/assets
+  documentation: https://docs.moonbeans.io
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

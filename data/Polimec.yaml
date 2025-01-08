@@ -21,6 +21,10 @@ web:
   twitter: PolimecProtocol
   discord: https://discord.com/invite/4CZh8HNVuT
   contact: INFO@POLIMEC.ORG
+  github: https://github.com/Polimec/polimec-node
+  documentation: https://hub.polimec.org/
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

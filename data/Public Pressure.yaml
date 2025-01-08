@@ -15,10 +15,12 @@ layer:
   - None
 web:
   logo: default.png
-  site: https://app.publicpressure.io/
+  site: https://publicpressure.io/
   twitter: jointhepressure
   discord: https://discord.com/invite/tvs4QMs9yS
   contact: info@publicpressure.io
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

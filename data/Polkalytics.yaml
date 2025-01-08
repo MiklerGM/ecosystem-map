@@ -1,7 +1,7 @@
 name: Polkalytics
 category:
   - Analytics
-description: Analytics Service
+description: Google-Scale Analytics Service for Polkadot
 readiness:
   business: Business concept/low adoption
   technology: In research
@@ -16,6 +16,9 @@ web:
   logo: default.png
   site: https://polkalytics.io
   twitter: Polkalytics
+  github: https://github.com/Polkalytics/Polkadot-Data-Ecosystem
+treasury_funded: true
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

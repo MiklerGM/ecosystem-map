@@ -7,7 +7,8 @@ readiness:
   technology: Discontinued
 target_audience:
   - Dev teams
-ecosystem: []
+ecosystem: 
+  - Polkadot
 layer:
   - Layer-1
 web:
@@ -15,6 +16,9 @@ web:
   site: https://laminar.one/
   twitter: LaminarProtocol
   contact: hello@laminar.one
+  github: https://github.com/laminar-protocol/laminar-chain
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

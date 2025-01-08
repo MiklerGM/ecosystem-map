@@ -10,7 +10,9 @@ target_audience:
   - Dev teams
   - Startup
 ecosystem:
-  - Kusama
+  - Polygon
+  - Ethereum
+  - Polkadot
 layer:
   - Layer-1
 web:
@@ -18,7 +20,11 @@ web:
   site: laosnetwork.io
   twitter: laosnetwork
   discord: discord.gg/HgnVEYfX2V
-  contact: info@laosfoundation.io
+  contact: info@laosfoundation.io 
+  github: https://github.com/freeverseio/laos
+  documentation: https://docs.laosnetwork.io
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

@@ -21,6 +21,10 @@ web:
   twitter: peaqnetwork
   discord: https://discord.com/invite/XhJwuFKAAD
   contact: info@peaq.io
+  github: https://github.com/peaqnetwork/peaq-network-node
+  documentation: https://docs.peaq.network/docs/quick-start/what-is-peaq/
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

@@ -17,6 +17,11 @@ web:
   logo: default.png
   site: https://orbiter.one/
   twitter: OrbiterOne
+  discord: https://discord.com/invite/DZeF8UTxgS
+  github: https://github.com/orbiterone/core-protocol
+  documentation: https://docs.orbiter.one/
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

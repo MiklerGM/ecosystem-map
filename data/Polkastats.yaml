@@ -15,6 +15,9 @@ web:
   site: https://polkastats.io/
   twitter: PolkaStats
   contact: hello@polkastats.io
+  github: https://github.com/polkastats/polkastats
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

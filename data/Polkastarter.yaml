@@ -21,6 +21,10 @@ web:
   twitter: polkastarter
   discord: https://discord.com/invite/wa3SexwQTF
   contact: Support@Polkastarter.com
+  github: https://github.com/polkastarter/polkastarter-js
+  documentation: https://docs.polkastarter.com/
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

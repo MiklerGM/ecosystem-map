@@ -5,7 +5,7 @@ category:
 description: Layer 1 blockchain and DeFi protocol for Green Real World Assets (GRWA)
 readiness:
   business: Business concept/low adoption
-  technology: In research
+  technology: Discontinued
 target_audience:
   - Startup
 ecosystem:
@@ -17,6 +17,9 @@ web:
   site: https://phyken.network/
   twitter: phyken_network
   contact: hello@metaquity.xyz
+  github: https://github.com/PhykenNetwork/phyken-investor-app
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

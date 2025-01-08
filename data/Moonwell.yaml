@@ -19,6 +19,11 @@ web:
   site: https://moonwell.fi/
   twitter: MoonwellDeFi
   contact: contact@moonwell.fi
+  discord: https://discord.com/invite/moonwellfi
+  github: https://github.com/moonwell-fi/moonwell-contracts-v2
+  documentation: https://docs.moonwell.fi/moonwell
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

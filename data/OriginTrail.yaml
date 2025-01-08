@@ -21,6 +21,10 @@ web:
   twitter: origin_trail
   discord: https://discord.com/invite/QctFuPCMew
   contact: alliance@origin-trail.com
+  github: https://github.com/OriginTrail/ot-node
+  documentation: https://docs.origintrail.io/
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

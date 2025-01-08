@@ -20,6 +20,8 @@ web:
   site: https://parachains.info/
   twitter: parachains
   contact: https://parachains.info/contact_us
+treasury_funded: true
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

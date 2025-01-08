@@ -21,6 +21,11 @@ web:
   site: https://humanode.io/
   twitter: humanode_io
   contact: core@humanode.io
+  discord: https://discord.com/invite/8my5gbgptx
+  github: https://github.com/humanode-network/humanode
+  documentation: https://gitbook.humanode.io/docs
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

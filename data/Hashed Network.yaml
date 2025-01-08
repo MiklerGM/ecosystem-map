@@ -19,6 +19,8 @@ web:
   site: https://hashed.network/
   twitter: HashedNetwork
   contact: https://hashed.network/contact/
+  documentation: https://docs.hashed.network/
+  github: https://github.com/hashed-io/hashed-substrate
 treasury_funded: false
 audit: false
 metrics:

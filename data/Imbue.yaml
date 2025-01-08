@@ -22,6 +22,9 @@ web:
   site: https://www.imbue.network/
   twitter: ImbueNetwork
   discord: https://discord.com/invite/cVTEhDhVKs
+  github: https://github.com/ImbueNetwork/imbue
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

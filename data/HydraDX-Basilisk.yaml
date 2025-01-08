@@ -1,4 +1,4 @@
-name: HydraDX/Basilisk
+name: Hydration
 category:
   - DeFi
   - Exchange
@@ -19,9 +19,13 @@ layer:
   - Layer-1
 web:
   logo: HydraDX-Basilisk.jpg
-  site: https://hydradx.io/
-  twitter: hydra_dx
-  discord: https://discord.com/invite/xtVnQgq
+  site: https://hydration.net
+  twitter: hydration_net
+  discord: https://discord.com/invite/kkmY35UxAG
+  github: https://github.com/galacticcouncil/hydration-node
+  documentation: https://docs.hydration.net
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

@@ -18,6 +18,11 @@ web:
   logo: default.png
   site: https://kagla.finance/
   twitter: kagla_fi
+  discord: https://discord.com/invite/sukbYgNjgc
+  github: https://github.com/kagla-finance/kagla-api
+  documentation: https://docs.kagla.finance
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

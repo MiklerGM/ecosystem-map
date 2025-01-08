@@ -23,9 +23,13 @@ layer:
   - Layer-3
 web:
   logo: Manta Network - Calamari.jpg
-  site: https://www.manta.network/x
+  site: https://www.manta.network/
   twitter: MantaNetwork
-  discord: https://discord.com/invite/mantanetwork
+  discord: https://discord.com/invite/mantanetwork 
+  github: https://github.com/Manta-Network/Manta
+  documentation: https://docs.manta.network/docs/Introduction
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

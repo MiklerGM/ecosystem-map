@@ -21,6 +21,12 @@ web:
   site: https://www.nodle.com/
   twitter: nodlenetwork
   discord: https://discord.com/invite/N5nTUt8RWJ
+  github: https://github.com/NodleCode/chain
+  documentation: https://docs.nodle.com/
+  playstore: https://play.google.com/store/apps/details?id=io.nodle.cash&hl=en&gl=US
+  appstore: https://apps.apple.com/us/app/nodle-app-to-earn-crypto/id1480763553
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

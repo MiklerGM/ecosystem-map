@@ -1,12 +1,8 @@
 name: Logion
 category:
   - Data
-description: >-
-  a blockchain-based distributed infrastructure operated by a community of
-  Logion Legal Officers (LLO). Wallet protection through social recovery and
-  multi-signature
-
-  Digital asset protection through the Legal Officer Case (LOC) and restricted
+description: Blockchain-based distributed infrastructure operated by a community of Logion Legal Officers (LLO). Wallet protection through social recovery and
+  multi-signature. Digital asset protection through the Legal Officer Case (LOC) and restricted
   delivery of digital assets to the NFT owner
 readiness:
   business: Business concept/low adoption
@@ -24,6 +20,10 @@ web:
   twitter: logion_network
   discord: https://discord.com/invite/FvnxrtCYr6
   contact: info@logion.network
+  github: https://github.com/logion-network/logion-test
+  documentation: https://logion-network.github.io/logion-api/
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

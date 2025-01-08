@@ -21,7 +21,11 @@ web:
   logo: Phala - Khala.jpg
   site: https://www.phala.network/en/
   twitter: PhalaNetwork
-  discord: https://discord.com/invite/phala
+  discord: https://discord.com/invite/phala-network
+  github: https://github.com/Phala-Network/phala-blockchain
+  documentation: https://docs.phala.network
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

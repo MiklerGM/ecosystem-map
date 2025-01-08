@@ -20,6 +20,10 @@ web:
   site: https://polkadex.trade/
   twitter: polkadex
   discord: https://discord.com/invite/Uvua83QAzk
+  github: https://github.com/Polkadex-Substrate/Polkadex
+  documentation: https://docs.polkadex.trade/
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

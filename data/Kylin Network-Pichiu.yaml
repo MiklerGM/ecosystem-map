@@ -21,7 +21,11 @@ web:
   logo: Kylin Network-Pichiu.jpg
   site: https://www.kylin.network/
   twitter: Kylin_Network
+  contact: info@kylin.network
   discord: https://discord.com/invite/PwYCssr
+  github: https://github.com/Kylin-Network/kylin-collator
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

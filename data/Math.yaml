@@ -35,6 +35,12 @@ web:
   twitter: MathWallet
   discord: https://discord.com/invite/gXSfnk5eP5
   contact: labs@mathwallet.org
+  github: https://github.com/mathwallet/MathChain
+  playstore: https://play.google.com/store/apps/details?id=com.mathwallet.android
+  appstore: https://apps.apple.com/us/app/mathwallet-web3-wallet/id1582612388
+  documentation: https://doc.mathwallet.org
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

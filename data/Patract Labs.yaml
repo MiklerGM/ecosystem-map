@@ -6,13 +6,16 @@ readiness:
   technology: Discontinued
 target_audience:
   - Dev teams
-ecosystem: []
+ecosystem: 
+  - Polkadot
 layer:
   - Layer-3
 web:
   logo: default.png
   site: https://www.patract.io/
   twitter: PatractLabs
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

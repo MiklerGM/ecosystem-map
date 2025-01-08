@@ -22,7 +22,11 @@ web:
   site: https://integritee.network/
   twitter: integri_t_e_e
   discord: https://discord.com/invite/anhtxwr4eS
-  contact: hello@integritee.network
+  contact: hello@integritee.network 
+  github: https://github.com/integritee-network/worker
+  documentation: https://docs.integritee.network/4-development
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

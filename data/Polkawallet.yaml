@@ -24,6 +24,13 @@ web:
   site: https://polkawallet.io
   twitter: polkawallet
   contact: hello@polkawallet.io
+  github: https://github.com/polkawallet-io/app
+  discord: https://discord.com/invite/eaMkdqaP
+  appstore: https://apps.apple.com/us/app/polkawallet/id1520301768
+  playstore: https://play.google.com/store/apps/details?id=io.polkawallet.www.polka_wallet
+  documentation: https://wiki.polkawallet.app/
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31

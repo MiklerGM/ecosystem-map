@@ -28,6 +28,9 @@ web:
   site: https://invarch.network/
   twitter: InvArchNetwork
   discord: https://discord.com/invite/InvArch
+  github: https://github.com/Abstracted-Labs/InvArch
+treasury_funded: false
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31
