@@ -5,9 +5,8 @@ category:
   - EVM
   - Bridge
   - Analytics
-description: Decentralized exchange (DEX) with an automated market maker (AMM),
-  providing liquidity and peer-to-peer transactions, built on the Moonbeam
-  network.
+description: Decentralized exchange (DEX) with an automated market maker (AMM), providing
+  liquidity and peer-to-peer transactions, built on the Moonbeam network.
 readiness:
   business: Verified in market/high adoption
   technology: Connected to Parachain

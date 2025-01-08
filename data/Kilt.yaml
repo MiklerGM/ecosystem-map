@@ -4,8 +4,8 @@ category:
   - Oracle
   - Data
   - Wallet
-description: identity protocol for issuing self-sovereign, verifiable
-  credentials and decentralized identifiers
+description: identity protocol for issuing self-sovereign, verifiable credentials
+  and decentralized identifiers
 readiness:
   business: Scaling/Alliance
   technology: Connected to Relay chain
@@ -32,8 +32,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 69699
-    - date: 2022-12-31
-      value: 71500
   youtube:
     - date: 2023-12-31
       value: 1100
@@ -41,8 +39,8 @@ metrics:
     - date: 2023-12-31
       value: 67
   discord:
-    - date: 2023-12-31
-      value: 1385
+    - date: 2024-12-25
+      value: 1596
   blog:
     - date: 2023-12-31
       value: 2200

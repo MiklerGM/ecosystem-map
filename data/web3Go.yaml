@@ -3,8 +3,8 @@ category:
   - Data
   - Analytics
   - API
-description: open data analytics and service platform, identity management,
-  dashboards and data APIs
+description: open data analytics and service platform, identity management, dashboards
+  and data APIs
 readiness:
   business: Verified in market/high adoption
   technology: In production
@@ -27,8 +27,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 87911
-    - date: 2022-12-31
-      value: 30900
   youtube:
     - date: 2023-12-31
       value: 1600

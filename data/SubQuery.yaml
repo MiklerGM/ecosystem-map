@@ -36,8 +36,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 55422
-    - date: 2022-12-31
-      value: 14600
   youtube:
     - date: 2023-12-31
       value: 5620
@@ -45,8 +43,8 @@ metrics:
     - date: 2023-12-31
       value: 8200
   discord:
-    - date: 2023-12-31
-      value: 47407
+    - date: 2024-12-25
+      value: 41708
   blog:
     - date: 2023-12-31
       value: 6254

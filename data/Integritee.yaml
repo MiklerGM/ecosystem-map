@@ -3,8 +3,8 @@ category:
   - Data
   - Privacy
   - Bridge
-description: public blockchain solution for securely processing sensitive
-  business or personal data
+description: public blockchain solution for securely processing sensitive business
+  or personal data
 readiness:
   business: Scaling/Alliance
   technology: Connected to Relay chain
@@ -31,15 +31,13 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 23519
-    - date: 2022-12-31
-      value: 21458
   youtube: []
   github:
     - date: 2023-12-31
       value: 75
   discord:
-    - date: 2023-12-31
-      value: 3331
+    - date: 2024-12-25
+      value: 3191
   blog:
     - date: 2023-12-31
       value: 2500

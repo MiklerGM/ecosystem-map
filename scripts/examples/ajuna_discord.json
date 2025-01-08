@@ -1,0 +1,47 @@
+{
+  "type": 0,
+  "code": "cE72GYcFgY",
+  "inviter": {
+    "id": "171180066905128960",
+    "username": "darkfriend77",
+    "avatar": "63ce02abfb309f75f17d4d841f03c921",
+    "discriminator": "0",
+    "public_flags": 4194304,
+    "flags": 4194304,
+    "banner": "6b05a5d295fee1fc6950bb53c8386aa7",
+    "accent_color": 10027008,
+    "global_name": "AAA\ud83e\udd8a| darkfriend77",
+    "avatar_decoration_data": {
+      "asset": "a_445566ed965b2c1632a5b45c92f32d11",
+      "sku_id": "1202073975178665984",
+      "expires_at": null
+    },
+    "banner_color": "#990000",
+    "clan": null,
+    "primary_guild": null
+  },
+  "expires_at": null,
+  "flags": 2,
+  "guild": {
+    "id": "849331368558198803",
+    "name": "Ajuna Network",
+    "splash": "ecf006e18f2ed5d2e39dfc016a241410",
+    "banner": "f28d96434350db8d44c41b30aa234708",
+    "description": "Integrating Unity & Unreal with Polkadot for next-gen blockchain gaming. Unite, play, and innovate with us!",
+    "icon": "dc2b4ee9885f6ba04adbc5a80aa7dd70",
+    "features": ["ANIMATED_ICON", "VANITY_URL", "NEWS", "COMMUNITY_EXP_MEDIUM", "ANIMATED_BANNER", "MEMBER_PROFILES", "MEMBER_VERIFICATION_GATE_ENABLED", "INVITE_SPLASH", "PREVIEW_ENABLED", "AUTO_MODERATION", "DISCOVERABLE", "BANNER", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "SOUNDBOARD", "GUILD_WEB_PAGE_VANITY_URL", "PRIVATE_THREADS", "SEVEN_DAY_THREAD_ARCHIVE", "ENABLED_DISCOVERABLE_BEFORE", "ROLE_ICONS", "THREE_DAY_THREAD_ARCHIVE", "CHANNEL_ICON_EMOJIS_GENERATED"],
+    "verification_level": 4,
+    "vanity_url_code": "ajuna-network",
+    "nsfw_level": 0,
+    "nsfw": false,
+    "premium_subscription_count": 19
+  },
+  "guild_id": "849331368558198803",
+  "channel": {
+    "id": "849331369355771926",
+    "type": 0,
+    "name": "\ud83d\udc4b\uff5cwelcome"
+  },
+  "approximate_member_count": 9506,
+  "approximate_presence_count": 307
+}

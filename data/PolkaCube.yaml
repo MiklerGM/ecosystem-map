@@ -2,8 +2,8 @@ name: PolkaCube
 category:
   - Indexer
   - Validator provider
-description: comprehensive on-chain key staking statistics monitoring, optimized
-  staking strategy guidance
+description: comprehensive on-chain key staking statistics monitoring, optimized staking
+  strategy guidance
 readiness:
   technology: Discontinued
 target_audience:

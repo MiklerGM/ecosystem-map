@@ -4,7 +4,8 @@ category:
   - DeFi
   - DAO
   - NFT
-description: enables the gaming community to collaborate, fund and own high quality games
+description: enables the gaming community to collaborate, fund and own high quality
+  games
 readiness:
   business: Business concept/low adoption
   technology: Connected to Parachain
@@ -36,8 +37,8 @@ metrics:
     - date: 2023-12-31
       value: 13
   discord:
-    - date: 2023-12-31
-      value: 269
+    - date: 2024-12-25
+      value: 25
   blog:
     - date: 2023-12-31
       value: 467

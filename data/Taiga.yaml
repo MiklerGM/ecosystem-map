@@ -1,8 +1,8 @@
 name: Taiga
 category:
   - DeFi
-description: synthetic asset protocol designed to unify different formats of
-  staking and crowdloan derivatives into a highly efficient standard
+description: synthetic asset protocol designed to unify different formats of staking
+  and crowdloan derivatives into a highly efficient standard
 readiness:
   business: Business concept/low adoption
   technology: Connected to Parachain
@@ -29,8 +29,8 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2023-12-31
-      value: 40368
+    - date: 2024-12-25
+      value: 35891
   blog:
     - date: 2023-12-31
       value: 1075

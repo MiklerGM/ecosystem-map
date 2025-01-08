@@ -3,8 +3,8 @@ category:
   - Oracle
   - DeFi
   - Smart Contracts
-description: blockchain ecosystem for decentralized apps and digital ventures in
-  metals, energy, food and environmental products
+description: blockchain ecosystem for decentralized apps and digital ventures in metals,
+  energy, food and environmental products
 readiness:
   business: Business concept/low adoption
   technology: Connected to Relay chain
@@ -31,8 +31,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 843
-    - date: 2022-12-31
-      value: 675
   youtube:
     - date: 2023-12-31
       value: 21

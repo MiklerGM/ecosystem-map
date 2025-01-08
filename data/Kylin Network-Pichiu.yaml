@@ -4,8 +4,8 @@ category:
   - Data
   - Analytics
   - DeFi
-description: infra to build multi-purpose oracles, provide valid, reliable,
-  secure, cost-effective, and easily-coordinated data sources and data analytics
+description: infra to build multi-purpose oracles, provide valid, reliable, secure,
+  cost-effective, and easily-coordinated data sources and data analytics
 readiness:
   business: Scaling/Alliance
   technology: Discontinued
@@ -30,8 +30,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 76700
-    - date: 2022-12-31
-      value: 71800
   youtube:
     - date: 2023-12-31
       value: 938
@@ -39,8 +37,8 @@ metrics:
     - date: 2023-12-31
       value: 41
   discord:
-    - date: 2023-12-31
-      value: 3703
+    - date: 2024-12-25
+      value: 4337
   blog:
     - date: 2023-12-31
       value: 3300

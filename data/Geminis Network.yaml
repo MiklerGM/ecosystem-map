@@ -2,9 +2,9 @@ name: Geminis Network
 category:
   - EVM
   - Smart Contracts
-description: Develop and execute high-speed smart contracts with built-in
-  Ethereum compatibility (EVM & EWASM) and interoperability in Solidity, Vyper,
-  and next-level programming languages like Rust, C ++, and Golang.
+description: Develop and execute high-speed smart contracts with built-in Ethereum
+  compatibility (EVM & EWASM) and interoperability in Solidity, Vyper, and next-level
+  programming languages like Rust, C ++, and Golang.
 readiness:
   technology: Discontinued
 target_audience:
@@ -22,7 +22,7 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2023-12-31
-      value: 3488
+    - date: 2024-12-25
+      value: 3437
   blog: []
   app_downloads: []

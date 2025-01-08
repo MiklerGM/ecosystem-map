@@ -2,8 +2,8 @@ name: Polkaview
 category:
   - Indexer
   - Analytics
-description: live, low-latency, metrics & historical charts across multiple
-  Polkadot-based chains
+description: live, low-latency, metrics & historical charts across multiple Polkadot-based
+  chains
 readiness:
   technology: Discontinued
 target_audience:

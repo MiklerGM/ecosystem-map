@@ -3,7 +3,8 @@ category:
   - Exchange
   - DeFi
   - NFT
-description: synthetic asset issuance protocol and decentralised contract trading exchange
+description: synthetic asset issuance protocol and decentralised contract trading
+  exchange
 readiness:
   technology: Discontinued
 target_audience:
@@ -21,8 +22,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 27724
-    - date: 2022-12-31
-      value: 30592
   youtube: []
   github:
     - date: 2023-12-31

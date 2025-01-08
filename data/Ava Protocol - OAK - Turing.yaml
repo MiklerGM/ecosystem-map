@@ -5,8 +5,8 @@ category:
   - EVM
   - Marketplace
   - Dapp
-description: payment automation - event-driven smart contract VM, autonomous
-  transactions, and on-chain scheduler
+description: payment automation - event-driven smart contract VM, autonomous transactions,
+  and on-chain scheduler
 readiness:
   business: Business concept/low adoption
   technology: Connected to Relay chain
@@ -34,15 +34,13 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 30035
-    - date: 2022-12-31
-      value: 15800
   youtube: []
   github:
     - date: 2023-12-31
       value: 35
   discord:
-    - date: 2023-12-31
-      value: 17642
+    - date: 2024-12-25
+      value: 18024
   blog:
     - date: 2023-12-31
       value: 40

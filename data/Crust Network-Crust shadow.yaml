@@ -4,7 +4,8 @@ category:
   - Dapp
   - EVM
   - Data
-description: decentralized cloud storage provider - dapp hosting, nft storage, ipfs storage
+description: decentralized cloud storage provider - dapp hosting, nft storage, ipfs
+  storage
 readiness:
   business: Scaling/Alliance
   technology: Connected to Relay chain
@@ -30,18 +31,19 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 109980
-    - date: 2022-12-31
-      value: 107900
   youtube:
     - date: 2023-12-31
       value: 1700
   github:
-    - date: 2023-12-31
-      value: 402
+    - date: 2024-12-25
+      value: 513
   discord:
-    - date: 2023-12-31
-      value: 5421
+    - date: 2024-12-25
+      value: 7175
   blog:
     - date: 2023-12-31
       value: 3800
   app_downloads: []
+  github_pushed_at:
+    - date: 2024-12-25
+      value: 1734955645

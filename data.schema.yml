@@ -171,6 +171,8 @@ properties:
         $ref: "#/definitions/record"
       github:
         $ref: "#/definitions/record"
+      github_pushed_at:
+        $ref: "#/definitions/record"
       app_downloads:
         $ref: "#/definitions/record"
 

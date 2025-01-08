@@ -3,7 +3,8 @@ category:
   - Dapp
   - Smart Contracts
   - Privacy
-description: Platform for business use cases like tax credit marketplace, multisigs etc
+description: Platform for business use cases like tax credit marketplace, multisigs
+  etc
 readiness:
   business: Verified in market/high adoption
   technology: Connected to Relay chain

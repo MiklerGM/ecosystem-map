@@ -4,9 +4,9 @@ category:
   - Data
   - EVM
   - Wallet
-description: Real-World identity (RWI) infrastructure for Web3, zCloak Network's
-  privacy-first DID protocol aims to provide user data ownership by moving both
-  data storage and computation from centralized servers to user devices.
+description: Real-World identity (RWI) infrastructure for Web3, zCloak Network's privacy-first
+  DID protocol aims to provide user data ownership by moving both data storage and
+  computation from centralized servers to user devices.
 readiness:
   business: Business concept/low adoption
   technology: Validated POC / testnet
@@ -23,7 +23,8 @@ web:
   site: https://zcloak.network/
   twitter: zCloakNetwork
   discord: https://discord.com/invite/wcKt6MDRJz
-  contact: https://docs.google.com/forms/d/e/1FAIpQLSeywayoAtlCvVA11cy_1YCgFjpfbvQcE-fdusdxAkqL7hU82Q/viewform
+  contact: 
+    https://docs.google.com/forms/d/e/1FAIpQLSeywayoAtlCvVA11cy_1YCgFjpfbvQcE-fdusdxAkqL7hU82Q/viewform
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,8 +32,8 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2023-12-31
-      value: 40892
+    - date: 2024-12-25
+      value: 38316
   blog:
     - date: 2023-12-31
       value: 1520

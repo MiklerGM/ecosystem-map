@@ -5,8 +5,8 @@ category:
   - NFT
   - Dapp
   - EVM
-description: Non-custodial mobile wallet app and extension, Layer 2 blockchain
-  based on Substrate
+description: Non-custodial mobile wallet app and extension, Layer 2 blockchain based
+  on Substrate
 readiness:
   business: Scaling/Alliance
 target_audience:
@@ -45,8 +45,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 833909
-    - date: 2022-12-31
-      value: 390700
   youtube:
     - date: 2023-12-31
       value: 808
@@ -54,8 +52,8 @@ metrics:
     - date: 2023-12-31
       value: 85
   discord:
-    - date: 2023-12-31
-      value: 9197
+    - date: 2024-12-25
+      value: 9606
   blog:
     - date: 2023-12-31
       value: 3000

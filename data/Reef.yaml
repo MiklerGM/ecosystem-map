@@ -22,13 +22,12 @@ web:
   site: https://reef.io/
   twitter: Reef_Chain
   discord: https://discord.com/invite/reefchain
-  contact: https://docs.google.com/forms/d/e/1FAIpQLSfj6o8Ga9tuuNHc2nTNnHQMZB2cejoEsn1z8TzdX9v1mDcVdg/viewform
+  contact: 
+    https://docs.google.com/forms/d/e/1FAIpQLSfj6o8Ga9tuuNHc2nTNnHQMZB2cejoEsn1z8TzdX9v1mDcVdg/viewform
 metrics:
   twitter:
     - date: 2023-12-31
       value: 234217
-    - date: 2022-12-31
-      value: 236000
   youtube:
     - date: 2023-12-31
       value: 7260
@@ -36,8 +35,8 @@ metrics:
     - date: 2023-12-31
       value: 142
   discord:
-    - date: 2023-12-31
-      value: 4817
+    - date: 2024-12-25
+      value: 6294
   blog:
     - date: 2023-12-31
       value: 6246

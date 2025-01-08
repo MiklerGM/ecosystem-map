@@ -26,14 +26,12 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 31500
-    - date: 2022-12-31
-      value: 33213
   youtube: []
   github:
     - date: 2023-12-31
       value: 4
   discord:
-    - date: 2023-12-31
-      value: 130
+    - date: 2024-12-25
+      value: 111
   blog: []
   app_downloads: []

@@ -3,8 +3,8 @@ category:
   - Wallet
   - DAO
   - EVM
-description: DAO infrastructure protocol that helps manage digital assets
-  through middleware, multi-sig and other decentralized features
+description: DAO infrastructure protocol that helps manage digital assets through
+  middleware, multi-sig and other decentralized features
 readiness:
   business: Business concept/low adoption
   technology: Validated POC / testnet

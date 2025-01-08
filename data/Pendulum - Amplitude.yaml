@@ -4,8 +4,8 @@ category:
   - Bridge
   - Smart Contracts
   - EVM
-description: Decentralized blockchain technology for cross-border payments and
-  traditional finance infrastructure
+description: Decentralized blockchain technology for cross-border payments and traditional
+  finance infrastructure
 readiness:
   business: Scaling/Alliance
   technology: Connected to Relay chain
@@ -32,15 +32,13 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 53000
-    - date: 2022-12-31
-      value: 11200
   youtube: []
   github:
     - date: 2023-12-31
       value: 11
   discord:
-    - date: 2023-12-31
-      value: 2134
+    - date: 2024-12-25
+      value: 2353
   blog:
     - date: 2023-12-31
       value: 442

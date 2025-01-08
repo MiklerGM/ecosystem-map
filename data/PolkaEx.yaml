@@ -2,8 +2,8 @@ name: PolkaEx
 category:
   - Exchange
   - DeFi
-description: A cross-chain Dex and Launchpad on Polkadot with higher TPS and
-  lower transaction fees
+description: A cross-chain Dex and Launchpad on Polkadot with higher TPS and lower
+  transaction fees
 readiness:
   business: Business concept/low adoption
   technology: Discontinued
@@ -31,7 +31,7 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2023-12-31
-      value: 3519
+    - date: 2024-12-25
+      value: 3428
   blog: []
   app_downloads: []

@@ -5,10 +5,9 @@ category:
   - Dapp
   - Exchange
   - Bridge
-description: Unit Network pioneers a new era of the token-based economy, serving
-  as both a protocol and application. It connects communities, projects,
-  businesses, real-world assets, and network states in an open financial
-  network.
+description: Unit Network pioneers a new era of the token-based economy, serving as
+  both a protocol and application. It connects communities, projects, businesses,
+  real-world assets, and network states in an open financial network.
 readiness:
   business: Business concept/low adoption
   technology: In development
@@ -38,8 +37,8 @@ metrics:
       value: 5230
   github: []
   discord:
-    - date: 2023-12-31
-      value: 549
+    - date: 2024-12-25
+      value: 562
   blog:
     - date: 2023-12-31
       value: 4000

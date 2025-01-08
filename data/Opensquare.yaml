@@ -7,8 +7,8 @@ category:
   - Infra
   - Indexer
   - Analytics
-description: Governance platforms, explorers, QA and bounty platforms.
-  dotTreasury - platform that aggregates treasury data
+description: Governance platforms, explorers, QA and bounty platforms. dotTreasury
+  - platform that aggregates treasury data
 readiness:
   business: Verified in market/high adoption
   technology: In production
@@ -36,8 +36,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 1252
-    - date: 2022-12-31
-      value: 1100
   youtube:
     - date: 2023-12-31
       value: 12

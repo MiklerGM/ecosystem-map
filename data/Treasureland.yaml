@@ -3,10 +3,9 @@ category:
   - NFT
   - Marketplace
   - Social
-description: multi-chain NFT aggregation protocol that supports NFT mint,
-  issuance, auction, and socialization. It aims to connect NFT creators, users,
-  and consumers in a decentralized way, building the eBay of the blockchain
-  world.
+description: multi-chain NFT aggregation protocol that supports NFT mint, issuance,
+  auction, and socialization. It aims to connect NFT creators, users, and consumers
+  in a decentralized way, building the eBay of the blockchain world.
 readiness:
   technology: Discontinued
 target_audience:

@@ -4,8 +4,8 @@ category:
   - Game
   - DAO
   - NFT
-description: Build, test and run your own dApps at warp speed with Web3’s
-  highest-performing layer-1 decentralized network.
+description: Build, test and run your own dApps at warp speed with Web3’s highest-performing
+  layer-1 decentralized network.
 readiness:
   business: Business concept/low adoption
   technology: In production
@@ -30,8 +30,8 @@ metrics:
     - date: 2023-12-31
       value: 7
   discord:
-    - date: 2023-12-31
-      value: 21303
+    - date: 2024-12-25
+      value: 21254
   blog:
     - date: 2023-12-31
       value: 3801

@@ -2,7 +2,8 @@ name: Diora Network
 category:
   - EVM
   - DeFi
-description: Fully EVM compatible parachain built with Substrate for Polkadot and Kusama
+description: Fully EVM compatible parachain built with Substrate for Polkadot and
+  Kusama
 readiness:
   business: Business concept/low adoption
   technology: Discontinued
@@ -10,7 +11,7 @@ target_audience:
   - Startup
   - Dev teams
   - Individuals
-ecosystem: 
+ecosystem:
   - Polkadot
 layer:
   - Layer-1
@@ -29,10 +30,13 @@ metrics:
       value: 188
   youtube: []
   github:
-    - date: 2023-12-31
+    - date: 2024-12-25
       value: 7
   discord:
-    - date: 2023-12-31
-      value: 132
+    - date: 2024-12-25
+      value: 125
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2024-12-25
+      value: 1682268437

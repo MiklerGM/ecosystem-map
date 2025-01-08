@@ -21,20 +21,19 @@ web:
   site: https://www.tidal.finance/
   twitter: tidaldefi
   discord: https://discord.com/invite/rZhuzJzXqV
-  contact: https://docs.google.com/forms/d/e/1FAIpQLSfjS2QzSkzyWm1M8siiKkoYPOb5o41QqnJm6n5FOKenUNGq7w/viewform
+  contact: 
+    https://docs.google.com/forms/d/e/1FAIpQLSfjS2QzSkzyWm1M8siiKkoYPOb5o41QqnJm6n5FOKenUNGq7w/viewform
 metrics:
   twitter:
     - date: 2023-12-31
       value: 55500
-    - date: 2022-12-31
-      value: 57731
   youtube: []
   github:
     - date: 2023-12-31
       value: 9
   discord:
-    - date: 2023-12-31
-      value: 1887
+    - date: 2024-12-25
+      value: 2049
   blog:
     - date: 2023-12-31
       value: 1903

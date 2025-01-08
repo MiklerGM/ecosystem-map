@@ -2,7 +2,8 @@ name: Polimec
 category:
   - DeFi
   - Aggregator
-description: fundraising in a decentralized, transparent, and regulatory compliant manner
+description: fundraising in a decentralized, transparent, and regulatory compliant
+  manner
 readiness:
   business: Business concept/low adoption
   technology: Validated POC / testnet
@@ -32,8 +33,8 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2023-12-31
-      value: 812
+    - date: 2024-12-25
+      value: 1728
   blog:
     - date: 2023-12-31
       value: 173

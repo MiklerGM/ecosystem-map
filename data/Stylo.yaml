@@ -3,8 +3,8 @@ category:
   - Wallet
   - Dapp
   - EVM
-description: non-custodial cold offline mobile wallet for Polkadot, Kusama and
-  Substrate based chains or Ethereum
+description: non-custodial cold offline mobile wallet for Polkadot, Kusama and Substrate
+  based chains or Ethereum
 readiness:
   business: Business concept/low adoption
   technology: In production
@@ -27,8 +27,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 163
-    - date: 2022-12-31
-      value: 117
   youtube: []
   github:
     - date: 2023-12-31

@@ -1,8 +1,8 @@
 name: Star Atlas
 category:
   - Game
-description: A grand strategy game of space exploration, territorial conquest,
-  political domination, and living among the stars.
+description: A grand strategy game of space exploration, territorial conquest, political
+  domination, and living among the stars.
 readiness:
   technology: In production
 target_audience:
@@ -26,7 +26,7 @@ metrics:
       value: 37400
   github: []
   discord:
-    - date: 2023-12-31
-      value: 174780
+    - date: 2024-12-25
+      value: 182334
   blog: []
   app_downloads: []

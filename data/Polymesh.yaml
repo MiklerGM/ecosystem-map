@@ -2,7 +2,8 @@ name: Polymesh
 category:
   - DeFi
   - Wallet
-description: institutional grade permissioned blockchain built specifically for regulated assets
+description: institutional–grade permissioned blockchain built specifically for regulated
+  assets
 readiness:
   business: Verified in market/high adoption
   technology: In production
@@ -28,8 +29,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 10408
-    - date: 2022-12-31
-      value: 6100
   youtube:
     - date: 2023-12-31
       value: 5000
