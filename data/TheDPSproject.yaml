@@ -17,6 +17,10 @@ web:
   logo: TheDPSproject.jpg
   site: https://damnedpiratessociety.io/
   twitter: TheDPSproject
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

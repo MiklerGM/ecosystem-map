@@ -31,6 +31,10 @@ web:
   site: https://talisman.xyz/
   twitter: wearetalisman
   contact: info@talisman.xyz
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

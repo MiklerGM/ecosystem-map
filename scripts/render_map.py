@@ -58,9 +58,9 @@ def map_activity(github_pushed_at: Optional[int]) -> str:
     today = datetime.datetime.now()
     last_push_date = datetime.datetime.fromtimestamp(github_pushed_at)
     delta = (today - last_push_date).days
-    if delta <= 30:
+    if delta <= 90:
         return ACTIVITY_INDICATORS["Active"]
-    elif delta <= 90:
+    elif delta <= 180:
         return ACTIVITY_INDICATORS["Moderate activity"]
     else:
         return ACTIVITY_INDICATORS["Inactive"]
@@ -91,7 +91,7 @@ def generate_markdown_table(data: List[Dict[str, Any]]) -> str:
         "Category",
         "GitHub Activity",
         "Ecosystem",
-        "Description",
+        "          Description          ",
         "Target Audience",
         "Media Exposure",
         "GitHub",

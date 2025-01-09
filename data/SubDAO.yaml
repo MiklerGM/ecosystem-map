@@ -22,6 +22,10 @@ web:
   logo: default.png
   site: https://www.subdao.network/
   twitter: subdao_network
+  github: https://github.com/SubDAO-Network/dapp
+  documentation: https://wiki.subdao.network
+treasury_funded: false
+audit: true 
 metrics:
   twitter:
     - date: 2023-12-31

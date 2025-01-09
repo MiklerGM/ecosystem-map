@@ -24,6 +24,10 @@ web:
   site: http://subscan.io
   twitter: subscan_io
   contact: hello@subscan.io
+  github: https://github.com/subscan-explorer/subscan-essentials
+  documentation: https://support.subscan.io
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

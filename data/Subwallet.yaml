@@ -27,6 +27,13 @@ web:
   twitter: subwalletapp
   discord: https://discord.com/invite/PvjV5mu6Gq
   contact: agent@subwallet.app
+  github: https://github.com/Koniverse/SubWallet-Extension
+  documentation: https://docs.subwallet.app/main
+  appstore: https://apps.apple.com/ru/app/subwallet-polkadot-wallet/id1633050285?l=en-GB
+  playstore: https://play.google.com/store/apps/details?id=app.subwallet.mobile
+  webstore: https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

@@ -7,7 +7,7 @@ description: non-custodial cold offline mobile wallet for Polkadot, Kusama and S
   based chains or Ethereum
 readiness:
   business: Business concept/low adoption
-  technology: In production
+  technology: Discontinued
 target_audience:
   - Personal investors
   - Institutional investors
@@ -23,6 +23,9 @@ web:
   logo: default.png
   site: https://stylo-app.com/
   twitter: app_stylo
+  github: https://github.com/stylo-app/stylo
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

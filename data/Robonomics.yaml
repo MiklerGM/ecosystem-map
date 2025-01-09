@@ -23,8 +23,8 @@ web:
   twitter: AIRA_Robonomics
   discord: https://discord.com/invite/J57BHwpteR
   contact: https://robonomics.network/contact/
-  github: 
-  documentation: 
+  github: https://github.com/airalab/robonomics
+  documentation: https://wiki.robonomics.network
 treasury_funded: false
 audit: false 
 metrics:

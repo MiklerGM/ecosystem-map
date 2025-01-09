@@ -17,6 +17,10 @@ web:
   twitter: t3rn_io
   discord: https://discord.com/invite/T3sJYkEvPY
   contact: https://www.t3rn.io/
+  github: https://github.com/t3rn/t3rn
+  documentation: https://docs.t3rn.io/intro
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

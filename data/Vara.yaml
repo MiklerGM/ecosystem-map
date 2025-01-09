@@ -21,6 +21,10 @@ web:
   site: https://vara.network/
   twitter: VaraNetwork
   discord: https://discord.com/invite/x8ZeSy6S6K
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

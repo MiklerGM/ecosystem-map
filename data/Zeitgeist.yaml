@@ -18,6 +18,10 @@ web:
   site: https://zeitgeist.pm
   twitter: ZeitgeistPM
   discord: https://discord.com/invite/xv8HuA4s8v
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

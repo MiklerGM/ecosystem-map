@@ -26,6 +26,10 @@ web:
   site: https://sora.org/
   twitter: sora_xor
   discord: https://discord.com/invite/4TXRN6Y4gb
+  github: https://github.com/sora-xor/sora2-network
+  documentation: https://wiki.sora.org/build.html
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

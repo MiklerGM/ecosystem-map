@@ -25,6 +25,10 @@ web:
   discord: https://discord.com/invite/wcKt6MDRJz
   contact: 
     https://docs.google.com/forms/d/e/1FAIpQLSeywayoAtlCvVA11cy_1YCgFjpfbvQcE-fdusdxAkqL7hU82Q/viewform
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

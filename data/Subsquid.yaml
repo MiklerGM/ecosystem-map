@@ -27,6 +27,10 @@ web:
   site: https://subsquid.io
   twitter: subsquid
   discord: https://discord.com/invite/subsquid
+  github: https://github.com/subsquid/squid-sdk
+  documentation: https://docs.sqd.dev/
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

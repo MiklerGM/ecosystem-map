@@ -23,6 +23,10 @@ web:
   site: https://www.stafi.io/
   twitter: StaFi_Protocol
   discord: https://discord.com/invite/jB77etn
+  github: https://github.com/stafiprotocol/stafi-node
+  documentation: https://docs.stafi.io
+treasury_funded: false
+audit: true 
 metrics:
   twitter:
     - date: 2023-12-31

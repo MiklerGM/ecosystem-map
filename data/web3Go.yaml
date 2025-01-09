@@ -23,6 +23,10 @@ web:
   twitter: Web3Go
   discord: https://discord.com/invite/web3go
   contact: info@web3go.xyz
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

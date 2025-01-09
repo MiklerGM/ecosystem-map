@@ -27,6 +27,10 @@ web:
   site: https://www.watr.org
   twitter: WatrProtocol
   contact: https://watr.org/
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

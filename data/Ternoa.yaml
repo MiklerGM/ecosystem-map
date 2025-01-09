@@ -23,6 +23,10 @@ web:
   site: https://www.ternoa.network/
   twitter: Ternoa_
   discord: https://discord.com/invite/cNZTGtGJNR
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

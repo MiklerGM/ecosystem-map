@@ -23,8 +23,8 @@ web:
   twitter: Reef_Chain
   discord: https://discord.com/invite/reefchain
   contact: https://docs.google.com/forms/d/e/1FAIpQLSfj6o8Ga9tuuNHc2nTNnHQMZB2cejoEsn1z8TzdX9v1mDcVdg/viewform
-  github: 
-  documentation: 
+  github: https://github.com/reef-chain/reef-chain-node
+  documentation: https://docs.reef.io
 treasury_funded: false
 audit: false 
 metrics:

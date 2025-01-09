@@ -22,6 +22,10 @@ web:
   site: https://stellaswap.com
   twitter: StellaSwap
   discord: https://discord.com/invite/FbdTFfg8bw
+  github: https://github.com/stellaswap/assets
+  documentation: https://docs.stellaswap.com
+treasury_funded: false
+audit: true 
 metrics:
   twitter:
     - date: 2023-12-31

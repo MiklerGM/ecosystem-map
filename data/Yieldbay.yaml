@@ -19,6 +19,10 @@ web:
   site: https://yieldbay.io/
   twitter: yield_bay
   discord: https://discord.com/invite/AKHuvbz7q4
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

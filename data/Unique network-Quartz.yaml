@@ -1,4 +1,4 @@
-name: Unique network/Quartz
+name: Unique network / Quartz
 category:
   - NFT
   - Game
@@ -24,6 +24,10 @@ web:
   twitter: Unique_NFTchain
   discord: https://discord.com/invite/jHVdZhsakC
   contact: hello@unique.network
+  github: https://github.com/UniqueNetwork/unique-chain
+  documentation: https://docs.unique.network
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

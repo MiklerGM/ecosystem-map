@@ -1,8 +1,8 @@
-name: Subspace
+name: Autonomys
 category:
   - Smart Contracts
   - NFT
-description: proof-of-capacity network to deploy cross-chain  dApps
+description: hyper-scalable permanent data storage, super fast data availability & flexible EVM-compatible decoupled execution
 readiness:
   business: Business concept/low adoption
   technology: Validated POC / testnet
@@ -17,10 +17,14 @@ layer:
   - Layer-3
 web:
   logo: default.png
-  site: https://subspace.network/
-  twitter: NetworkSubspace
+  site: https://www.autonomys.xyz
+  twitter: AutonomysNet
   discord: https://discord.com/invite/subspace-network
-  contact: hello@subspace.network
+  contact: hello@autonomys.xyz
+  github: https://github.com/autonomys/subspace
+  documentation: https://docs.autonomys.xyz/develop/intro/
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

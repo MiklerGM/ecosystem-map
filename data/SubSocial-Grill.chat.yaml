@@ -1,4 +1,4 @@
-name: SubSocial/Grill.chat
+name: SubSocial / Grill.chat
 category:
   - Social
   - Privacy
@@ -23,6 +23,10 @@ web:
   site: https://subsocial.network/
   twitter: SubsocialChain
   contact: subsocial@pm.me
+  github: https://github.com/dappforce/subsocial-parachain
+  documentation: https://docs.subsocial.network
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

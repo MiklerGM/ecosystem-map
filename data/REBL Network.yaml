@@ -22,8 +22,10 @@ web:
   twitter: reblapp
   discord: https://discord.com/invite/uRRxnfAjhY
   contact: support@REBL.co
-  github: 
-  documentation: 
+  github: https://github.com/yusernetwork/contracts
+  documentation: https://rebl.gitbook.io/rebl
+  appstore: https://apps.apple.com/ru/app/rebl-ai/id1394594352?l=en-GB
+  playstore: https://play.google.com/store/apps/details?id=com.yuserapp
 treasury_funded: false
 audit: false 
 metrics:

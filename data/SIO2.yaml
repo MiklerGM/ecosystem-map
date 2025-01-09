@@ -19,10 +19,10 @@ web:
   site: https://sio2.finance/
   twitter: SiO2_Finance
   discord: https://discord.com/invite/7u53a255Nh
-  github: 
-  documentation: 
+  github: https://github.com/SiO2-Finance/contracts
+  documentation: https://sio2-finance.gitbook.io/en
 treasury_funded: false
-audit: false 
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31

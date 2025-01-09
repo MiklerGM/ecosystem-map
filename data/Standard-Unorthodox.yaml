@@ -1,4 +1,4 @@
-name: Standard/Unorthodox
+name: Standard / Unorthodox
 category:
   - Wallet
   - Exchange
@@ -24,6 +24,9 @@ web:
   site: https://www.standardweb3.com/
   twitter: standardweb3
   discord: https://discord.com/invite/DxQyWX2mHg
+  github: https://github.com/standardweb3/standard-substrate
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

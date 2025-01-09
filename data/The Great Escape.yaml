@@ -18,6 +18,10 @@ web:
   twitter: PlayTGE
   discord: https://discord.com/invite/keJS7k8MUT
   contact: contact@thegreatescapegame.com
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

@@ -22,6 +22,10 @@ web:
   twitter: Totem_Live_
   discord: https://discord.com/invite/kmuZucW
   contact: info@totemaccounting.com
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

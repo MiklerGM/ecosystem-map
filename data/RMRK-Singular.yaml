@@ -1,4 +1,4 @@
-name: RMRK/Singular
+name: RMRK / Singular
 category:
   - NFT
   - Marketplace
@@ -26,8 +26,8 @@ web:
   site: https://www.rmrk.app
   twitter: RmrkApp
   discord: https://discord.com/invite/c74wTQFwhR
-  github: 
-  documentation: 
+  github: https://github.com/rmrk-team/evm
+  documentation: https://evm.rmrk.app
 treasury_funded: false
 audit: false 
 metrics:

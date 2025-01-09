@@ -20,6 +20,10 @@ web:
   site: https://starlay.finance/
   twitter: starlay_fi
   discord: https://discord.com/invite/M4NjBJZ94b
+  github: https://github.com/starlay-finance/starlay-protocol
+  documentation: https://docs.starlay.finance
+treasury_funded: false
+audit: true 
 metrics:
   twitter:
     - date: 2023-12-31

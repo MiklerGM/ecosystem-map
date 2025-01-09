@@ -32,6 +32,10 @@ web:
   twitter: SubQueryNetwork
   discord: https://discord.com/invite/78zg8aBSMG
   contact: hello@subquery.network
+  github: https://github.com/subquery/subql
+  documentation: https://academy.subquery.network
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

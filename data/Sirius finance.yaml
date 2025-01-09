@@ -21,10 +21,10 @@ web:
   twitter: Sirius_Finance
   discord: https://discord.com/invite/7yHgwnWF7F
   contact: business@sirius.finance
-  github: 
-  documentation: 
+  github: https://github.com/SiriusFinance/siriusfinance-contract
+  documentation: https://docs.sirius.finance
 treasury_funded: false
-audit: false 
+audit: true 
 metrics:
   twitter:
     - date: 2023-12-31

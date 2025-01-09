@@ -17,10 +17,10 @@ web:
   twitter: snowfork_inc
   discord: https://discord.com/invite/CH7D8mhwRy
   contact: https://snowfork.com/contact-us/
-  github: 
-  documentation: 
-treasury_funded: false
-audit: false 
+  github: https://github.com/Snowfork/snowbridge
+  documentation: https://docs.snowbridge.network
+treasury_funded: true
+audit: true 
 metrics:
   twitter:
     - date: 2023-12-31
