@@ -23,10 +23,16 @@ web:
   twitter: AIRA_Robonomics
   discord: https://discord.com/invite/J57BHwpteR
   contact: https://robonomics.network/contact/
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31
       value: 28951
+    - date: 2022-12-31
+      value: 28700
   youtube:
     - date: 2023-12-31
       value: 2000
@@ -34,8 +40,8 @@ metrics:
     - date: 2023-12-31
       value: 205
   discord:
-    - date: 2025-01-08
-      value: 2416
+    - date: 2023-12-31
+      value: 2293
   blog:
     - date: 2023-12-31
       value: 288

@@ -17,17 +17,23 @@ web:
   twitter: snowfork_inc
   discord: https://discord.com/invite/CH7D8mhwRy
   contact: https://snowfork.com/contact-us/
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31
       value: 3169
+    - date: 2022-12-31
+      value: 3000
   youtube: []
   github:
     - date: 2023-12-31
       value: 265
   discord:
-    - date: 2024-12-25
-      value: 116
+    - date: 2023-12-31
+      value: 121
   blog:
     - date: 2023-12-31
       value: 439

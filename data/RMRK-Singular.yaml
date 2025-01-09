@@ -26,10 +26,16 @@ web:
   site: https://www.rmrk.app
   twitter: RmrkApp
   discord: https://discord.com/invite/c74wTQFwhR
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31
       value: 62429
+    - date: 2022-12-31
+      value: 64300
   youtube:
     - date: 2023-12-31
       value: 4140
@@ -37,8 +43,8 @@ metrics:
     - date: 2023-12-31
       value: 69
   discord:
-    - date: 2025-01-08
-      value: 12339
+    - date: 2023-12-31
+      value: 12871
   blog:
     - date: 2023-12-31
       value: 1540

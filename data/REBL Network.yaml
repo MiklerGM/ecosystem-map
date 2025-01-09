@@ -22,6 +22,10 @@ web:
   twitter: reblapp
   discord: https://discord.com/invite/uRRxnfAjhY
   contact: support@REBL.co
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,8 +33,8 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2025-01-08
-      value: 4061
+    - date: 2023-12-31
+      value: 4428
   blog:
     - date: 2023-12-31
       value: 6243

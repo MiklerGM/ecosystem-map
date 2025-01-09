@@ -19,6 +19,10 @@ web:
   site: https://sio2.finance/
   twitter: SiO2_Finance
   discord: https://discord.com/invite/7u53a255Nh
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,7 +30,7 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2025-01-08
-      value: 3423
+    - date: 2023-12-31
+      value: 3379
   blog: []
   app_downloads: []

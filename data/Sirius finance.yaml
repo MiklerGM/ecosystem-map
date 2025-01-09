@@ -21,6 +21,10 @@ web:
   twitter: Sirius_Finance
   discord: https://discord.com/invite/7yHgwnWF7F
   contact: business@sirius.finance
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,8 +34,8 @@ metrics:
     - date: 2023-12-31
       value: 6
   discord:
-    - date: 2025-01-08
-      value: 37158
+    - date: 2023-12-31
+      value: 38661
   blog:
     - date: 2023-12-31
       value: 251

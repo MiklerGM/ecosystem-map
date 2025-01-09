@@ -17,6 +17,10 @@ web:
   site: https://quickswap.exchange/#/
   twitter: QuickswapDEX
   discord: https://discord.com/invite/dSMd7AFH36
+  github: 
+  documentation: 
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,7 +30,7 @@ metrics:
       value: 261
   github: []
   discord:
-    - date: 2025-01-08
-      value: 89552
+    - date: 2023-12-31
+      value: 95412
   blog: []
   app_downloads: []
