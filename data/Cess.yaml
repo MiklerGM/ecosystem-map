@@ -1,0 +1,34 @@
+name: CESS
+category:
+  - DePIN
+  - Data
+  - Infra
+description: Layer 1 for Infinite Data Storage & Millisecond Execution Powering DeSci, AI and DePIN Innovation
+readiness:
+  business: Verified in market/high adoption
+  technology: In development
+target_audience:
+  - Startup
+  - Dev teams
+  - Established corp
+ecosystem:
+  - Kusama
+  - Polkadot
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://cess.network/#
+  twitter: CESS_Storage
+  discord: https://discord.com/invite/cess
+  documentation: https://doc.cess.network
+  github: https://github.com/CESSProject/cess
+treasury_funded: false
+audit: false
+metrics:
+  twitter: []
+  youtube: []
+  github: []
+  discord: []
+  blog: []
+  app_downloads: []

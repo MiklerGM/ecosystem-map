@@ -18,8 +18,8 @@ web:
   site: https://zeitgeist.pm
   twitter: ZeitgeistPM
   discord: https://discord.com/invite/xv8HuA4s8v
-  github: 
-  documentation: 
+  github: https://github.com/zeitgeistpm/zeitgeist
+  documentation: https://docs.zeitgeist.pm
 treasury_funded: false
 audit: false 
 metrics:

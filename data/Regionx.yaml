@@ -1,0 +1,30 @@
+name: RegionX
+category:
+  - Marketplace
+  - Infra
+description: Secondary Coretime Marketplace
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Dev teams
+ecosystem:
+  - Kusama
+  - Polkadot
+layer:
+  - Layer-2
+web:
+  logo: default.png
+  site: https://www.regionx.tech
+  twitter: RegionXLabs
+  documentation: https://docs.regionx.tech/docs
+treasury_funded: false
+audit: false
+metrics:
+  twitter: []
+  youtube: []
+  github: []
+  discord: []
+  blog: []
+  app_downloads: []

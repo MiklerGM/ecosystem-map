@@ -28,8 +28,7 @@ web:
   twitter: theunitnetwork
   discord: https://discord.com/invite/unitnetwork
   contact: support@unit.network
-  github: 
-  documentation: 
+  documentation: https://unit.network/documentation-hub/
 treasury_funded: false
 audit: false 
 metrics:

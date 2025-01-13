@@ -20,10 +20,10 @@ web:
   site: https://zenlink.pro/en/
   twitter: ZenlinkPro
   contact: apollo@zenlink.pro.
-  github: 
-  documentation: 
+  github: https://github.com/zenlinkpro/zenlink-interface
+  documentation: https://wiki.zenlink.pro
 treasury_funded: false
-audit: false 
+audit: true 
 metrics:
   twitter:
     - date: 2023-12-31

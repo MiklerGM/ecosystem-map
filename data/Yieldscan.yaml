@@ -18,8 +18,6 @@ web:
   twitter: YieldScan
   discord: https://discord.com/invite/5Dggqx8
   contact: contact@yieldscan.app
-  github: 
-  documentation: 
 treasury_funded: false
 audit: false 
 metrics:

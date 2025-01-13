@@ -16,10 +16,11 @@ web:
   logo: The Great Escape.jpg
   site: https://www.playtge.com/
   twitter: PlayTGE
-  discord: https://discord.com/invite/keJS7k8MUT
+  discord: http://discord.gg/H9DH3z2bTV
   contact: contact@thegreatescapegame.com
-  github: 
-  documentation: 
+  documentation: https://the-great-escape.gitbook.io/the-great-escape
+  playstore: https://play.google.com/store/apps/details?id=org.godotengine.thegreatescapeandroidbuild
+  appstore: https://apps.apple.com/us/app/the-great-escape-playtge/id6480319051
 treasury_funded: false
 audit: false 
 metrics:

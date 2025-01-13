@@ -22,8 +22,8 @@ web:
   site: https://www.taigaprotocol.io/
   twitter: TaigaProtocol
   discord: https://discord.com/invite/CZWCCtD6mG
-  github: 
-  documentation: 
+  github: https://github.com/nutsfinance/tapio-eth
+  documentation: https://docs.taigaprotocol.io
 treasury_funded: false
 audit: false 
 metrics:

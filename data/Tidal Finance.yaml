@@ -6,7 +6,7 @@ category:
 description: insurance coverage protocol for assets across chains in  liquidity pools
 readiness:
   business: Scaling/Alliance
-  technology: In production
+  technology: Discontinued
 target_audience:
   - Personal investors
   - Institutional investors
@@ -21,10 +21,9 @@ web:
   site: https://www.tidal.finance/
   twitter: tidaldefi
   discord: https://discord.com/invite/rZhuzJzXqV
-  contact: 
-    https://docs.google.com/forms/d/e/1FAIpQLSfjS2QzSkzyWm1M8siiKkoYPOb5o41QqnJm6n5FOKenUNGq7w/viewform
-  github: 
-  documentation: 
+  contact: info@tidal.finance
+  github: https://github.com/TidalFinance/tidal-contracts
+  documentation: https://docs.tidal.finance
 treasury_funded: false
 audit: false 
 metrics:

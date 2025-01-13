@@ -1,16 +1,16 @@
-name: web3Go
+name: DIN
 category:
   - Data
   - Analytics
   - API
-description: open data analytics and service platform, identity management, dashboards
-  and data APIs
+description: AI Agent Blockchain infra
 readiness:
   business: Verified in market/high adoption
   technology: In production
 target_audience:
   - Personal investors
   - Institutional investors
+  - Startup
 ecosystem:
   - Polkadot
   - BNB Chain
@@ -19,12 +19,12 @@ layer:
   - Layer-2
 web:
   logo: web3Go.jpg
-  site: https://web3go.xyz/
-  twitter: Web3Go
-  discord: https://discord.com/invite/web3go
+  site: https://din.lol/
+  twitter: din_lol_
+  discord: https://discord.com/invite/dinlol
   contact: info@web3go.xyz
-  github: 
-  documentation: 
+  github: https://github.com/web3go-xyz/web3go.xyz
+  documentation: https://docs.din.lol/din-cook-data-for-ai
 treasury_funded: false
 audit: false 
 metrics:

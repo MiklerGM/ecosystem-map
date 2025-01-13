@@ -6,7 +6,7 @@ category:
 description: mobile and desktop games - Damned pirates society
 readiness:
   business: Business concept/low adoption
-  technology: In production
+  technology: Discontinued
 target_audience:
   - Individuals
 ecosystem:
@@ -17,8 +17,8 @@ web:
   logo: TheDPSproject.jpg
   site: https://damnedpiratessociety.io/
   twitter: TheDPSproject
-  github: 
-  documentation: 
+  discord: https://discord.gg/zuvKRqym
+  documentation: https://damnedpiratessociety.gitbook.io/the-damned-pirates-society
 treasury_funded: false
 audit: false 
 metrics:

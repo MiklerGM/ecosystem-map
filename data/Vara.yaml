@@ -21,8 +21,8 @@ web:
   site: https://vara.network/
   twitter: VaraNetwork
   discord: https://discord.com/invite/x8ZeSy6S6K
-  github: 
-  documentation: 
+  github: https://github.com/gear-foundation/dapps
+  documentation: https://vara.network/developers
 treasury_funded: false
 audit: false 
 metrics:

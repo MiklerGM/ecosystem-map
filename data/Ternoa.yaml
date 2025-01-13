@@ -23,8 +23,8 @@ web:
   site: https://www.ternoa.network/
   twitter: Ternoa_
   discord: https://discord.com/invite/cNZTGtGJNR
-  github: 
-  documentation: 
+  github: https://github.com/capsule-corp-ternoa/ternoa-node
+  documentation: https://docs.ternoa.network
 treasury_funded: false
 audit: false 
 metrics:

@@ -27,8 +27,8 @@ web:
   site: https://www.watr.org
   twitter: WatrProtocol
   contact: https://watr.org/
-  github: 
-  documentation: 
+  github: https://github.com/Watr-Protocol/watr
+  documentation: https://docs.watr.org
 treasury_funded: false
 audit: false 
 metrics:

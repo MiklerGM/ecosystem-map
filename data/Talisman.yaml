@@ -31,10 +31,11 @@ web:
   site: https://talisman.xyz/
   twitter: wearetalisman
   contact: info@talisman.xyz
-  github: 
-  documentation: 
-treasury_funded: false
-audit: false 
+  github: https://github.com/TalismanSociety/talisman
+  documentation: https://docs.talisman.xyz/talisman
+  webstore: https://chromewebstore.google.com/detail/talisman-wallet/fijngjgcjhjmmpcmkeiomlglpeiijkld
+treasury_funded: true
+audit: true 
 metrics:
   twitter:
     - date: 2023-12-31

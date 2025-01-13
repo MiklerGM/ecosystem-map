@@ -22,8 +22,8 @@ web:
   twitter: Totem_Live_
   discord: https://discord.com/invite/kmuZucW
   contact: info@totemaccounting.com
-  github: 
-  documentation: 
+  github: https://github.com/totem-tech/totem-ui
+  documentation: https://docs.totemaccounting.com/#/
 treasury_funded: false
 audit: false 
 metrics:
