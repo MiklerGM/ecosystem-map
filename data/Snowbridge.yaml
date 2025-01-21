@@ -20,21 +20,22 @@ web:
   github: https://github.com/Snowfork/snowbridge
   documentation: https://docs.snowbridge.network
 treasury_funded: true
-audit: true 
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
       value: 3169
-    - date: 2022-12-31
-      value: 3000
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 265
+    - date: 2025-01-21
+      value: 292
   discord:
-    - date: 2023-12-31
-      value: 121
+    - date: 2025-01-21
+      value: 116
   blog:
     - date: 2023-12-31
       value: 439
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1737445011

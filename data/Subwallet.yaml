@@ -31,9 +31,10 @@ web:
   documentation: https://docs.subwallet.app/main
   appstore: https://apps.apple.com/ru/app/subwallet-polkadot-wallet/id1633050285?l=en-GB
   playstore: https://play.google.com/store/apps/details?id=app.subwallet.mobile
-  webstore: https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn
+  webstore: 
+    https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -42,12 +43,15 @@ metrics:
     - date: 2023-12-31
       value: 514
   github:
-    - date: 2023-12-31
-      value: 33
+    - date: 2025-01-21
+      value: 95
   discord:
-    - date: 2025-01-08
-      value: 4841
+    - date: 2025-01-21
+      value: 4854
   blog: []
   app_downloads:
     - date: 2023-12-31
       value: 90000
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1737460115

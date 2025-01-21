@@ -35,7 +35,7 @@ web:
   github: https://github.com/subquery/subql
   documentation: https://academy.subquery.network
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -44,12 +44,15 @@ metrics:
     - date: 2023-12-31
       value: 5620
   github:
-    - date: 2023-12-31
-      value: 8200
+    - date: 2025-01-21
+      value: 18936
   discord:
-    - date: 2025-01-08
-      value: 41399
+    - date: 2025-01-21
+      value: 41058
   blog:
     - date: 2023-12-31
       value: 6254
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1737443178

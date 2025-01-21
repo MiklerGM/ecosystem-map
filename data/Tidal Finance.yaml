@@ -25,19 +25,22 @@ web:
   github: https://github.com/TidalFinance/tidal-contracts
   documentation: https://docs.tidal.finance
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 55500
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 9
+    - date: 2025-01-21
+      value: 10
   discord:
-    - date: 2025-01-08
-      value: 2054
+    - date: 2025-01-21
+      value: 2058
   blog:
     - date: 2023-12-31
       value: 1903
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1638566798

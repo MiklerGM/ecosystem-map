@@ -23,7 +23,7 @@ web:
   github: https://github.com/zenlinkpro/zenlink-interface
   documentation: https://wiki.zenlink.pro
 treasury_funded: false
-audit: true 
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
@@ -37,3 +37,6 @@ metrics:
     - date: 2023-12-31
       value: 3400
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1737482324

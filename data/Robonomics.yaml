@@ -26,23 +26,24 @@ web:
   github: https://github.com/airalab/robonomics
   documentation: https://wiki.robonomics.network
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 28951
-    - date: 2022-12-31
-      value: 28700
   youtube:
     - date: 2023-12-31
       value: 2000
   github:
-    - date: 2023-12-31
-      value: 205
+    - date: 2025-01-21
+      value: 218
   discord:
-    - date: 2023-12-31
-      value: 2293
+    - date: 2025-01-21
+      value: 2456
   blog:
     - date: 2023-12-31
       value: 288
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1728567706

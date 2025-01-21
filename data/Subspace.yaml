@@ -2,7 +2,8 @@ name: Autonomys
 category:
   - Smart Contracts
   - NFT
-description: hyper-scalable permanent data storage, super fast data availability & flexible EVM-compatible decoupled execution
+description: hyper-scalable permanent data storage, super fast data availability &
+  flexible EVM-compatible decoupled execution
 readiness:
   business: Business concept/low adoption
   technology: Validated POC / testnet
@@ -24,7 +25,7 @@ web:
   github: https://github.com/autonomys/subspace
   documentation: https://docs.autonomys.xyz/develop/intro/
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -33,12 +34,15 @@ metrics:
     - date: 2023-12-31
       value: 486
   github:
-    - date: 2023-12-31
-      value: 300
+    - date: 2025-01-21
+      value: 392
   discord:
-    - date: 2025-01-08
-      value: 65344
+    - date: 2025-01-21
+      value: 65024
   blog:
     - date: 2023-12-31
       value: 27
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1737457466

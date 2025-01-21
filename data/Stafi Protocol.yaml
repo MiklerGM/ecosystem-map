@@ -26,7 +26,7 @@ web:
   github: https://github.com/stafiprotocol/stafi-node
   documentation: https://docs.stafi.io
 treasury_funded: false
-audit: true 
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
@@ -35,12 +35,15 @@ metrics:
     - date: 2023-12-31
       value: 51
   github:
-    - date: 2023-12-31
-      value: 46
+    - date: 2025-01-21
+      value: 47
   discord:
-    - date: 2025-01-08
-      value: 10957
+    - date: 2025-01-21
+      value: 11042
   blog:
     - date: 2023-12-31
       value: 3982
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1726210829

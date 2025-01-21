@@ -27,7 +27,7 @@ web:
   github: https://github.com/UniqueNetwork/unique-chain
   documentation: https://docs.unique.network
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -36,12 +36,15 @@ metrics:
     - date: 2023-12-31
       value: 1380
   github:
-    - date: 2023-12-31
-      value: 111
+    - date: 2025-01-21
+      value: 125
   discord:
-    - date: 2025-01-08
-      value: 15673
+    - date: 2025-01-21
+      value: 15989
   blog:
     - date: 2023-12-31
       value: 704
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1737468034

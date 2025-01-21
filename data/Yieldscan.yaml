@@ -19,7 +19,7 @@ web:
   discord: https://discord.com/invite/5Dggqx8
   contact: contact@yieldscan.app
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -27,7 +27,7 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2025-01-08
-      value: 41
+    - date: 2025-01-21
+      value: 40
   blog: []
   app_downloads: []

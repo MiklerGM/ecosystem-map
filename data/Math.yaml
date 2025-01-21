@@ -49,11 +49,11 @@ metrics:
     - date: 2023-12-31
       value: 808
   github:
-    - date: 2025-01-08
-      value: 109
+    - date: 2025-01-21
+      value: 110
   discord:
-    - date: 2025-01-08
-      value: 9620
+    - date: 2025-01-21
+      value: 9624
   blog:
     - date: 2023-12-31
       value: 3000

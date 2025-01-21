@@ -23,7 +23,7 @@ web:
   github: https://github.com/starlay-finance/starlay-protocol
   documentation: https://docs.starlay.finance
 treasury_funded: false
-audit: true 
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,8 +31,8 @@ metrics:
   youtube: []
   github: []
   discord:
-    - date: 2025-01-08
-      value: 37454
+    - date: 2025-01-21
+      value: 37484
   blog:
     - date: 2023-12-31
       value: 1054

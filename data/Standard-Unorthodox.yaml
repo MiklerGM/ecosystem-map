@@ -26,7 +26,7 @@ web:
   discord: https://discord.com/invite/DxQyWX2mHg
   github: https://github.com/standardweb3/standard-substrate
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -36,8 +36,8 @@ metrics:
       value: 57
   github: []
   discord:
-    - date: 2025-01-08
-      value: 24863
+    - date: 2025-01-21
+      value: 24404
   blog:
     - date: 2023-12-31
       value: 233

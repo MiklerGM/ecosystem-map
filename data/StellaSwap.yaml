@@ -25,19 +25,22 @@ web:
   github: https://github.com/stellaswap/assets
   documentation: https://docs.stellaswap.com
 treasury_funded: false
-audit: true 
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
       value: 34825
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 7
+    - date: 2025-01-21
+      value: 1
   discord:
-    - date: 2025-01-08
-      value: 23249
+    - date: 2025-01-21
+      value: 18167
   blog:
     - date: 2023-12-31
       value: 1517
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1736442283

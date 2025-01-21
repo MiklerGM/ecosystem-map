@@ -26,7 +26,7 @@ web:
   github: https://github.com/web3go-xyz/web3go.xyz
   documentation: https://docs.din.lol/din-cook-data-for-ai
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
@@ -38,9 +38,12 @@ metrics:
     - date: 2023-12-31
       value: 10
   discord:
-    - date: 2023-12-31
-      value: 222525
+    - date: 2025-01-21
+      value: 293181
   blog:
     - date: 2023-12-31
       value: 7031
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1662343220

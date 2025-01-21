@@ -22,29 +22,31 @@ web:
   site: https://reef.io/
   twitter: Reef_Chain
   discord: https://discord.com/invite/reefchain
-  contact: https://docs.google.com/forms/d/e/1FAIpQLSfj6o8Ga9tuuNHc2nTNnHQMZB2cejoEsn1z8TzdX9v1mDcVdg/viewform
+  contact: 
+    https://docs.google.com/forms/d/e/1FAIpQLSfj6o8Ga9tuuNHc2nTNnHQMZB2cejoEsn1z8TzdX9v1mDcVdg/viewform
   github: https://github.com/reef-chain/reef-chain-node
   documentation: https://docs.reef.io
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 234217
-    - date: 2022-12-31
-      value: 236000
   youtube:
     - date: 2023-12-31
       value: 7260
   github:
-    - date: 2023-12-31
-      value: 142
+    - date: 2025-01-21
+      value: 1
   discord:
-    - date: 2023-12-31
-      value: 4817
+    - date: 2025-01-21
+      value: 6421
   blog:
     - date: 2023-12-31
       value: 6246
   app_downloads:
     - date: 2023-12-31
       value: 10000
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1737479031

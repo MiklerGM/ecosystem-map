@@ -29,23 +29,24 @@ web:
   github: https://github.com/rmrk-team/evm
   documentation: https://evm.rmrk.app
 treasury_funded: false
-audit: false 
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 62429
-    - date: 2022-12-31
-      value: 64300
   youtube:
     - date: 2023-12-31
       value: 4140
   github:
-    - date: 2023-12-31
-      value: 69
+    - date: 2025-01-21
+      value: 76
   discord:
-    - date: 2023-12-31
-      value: 12871
+    - date: 2025-01-21
+      value: 12336
   blog:
     - date: 2023-12-31
       value: 1540
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1736346933

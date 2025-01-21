@@ -24,19 +24,22 @@ web:
   github: https://github.com/SiriusFinance/siriusfinance-contract
   documentation: https://docs.sirius.finance
 treasury_funded: false
-audit: true 
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
       value: 41526
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 6
+    - date: 2025-01-21
+      value: 11
   discord:
-    - date: 2023-12-31
-      value: 38661
+    - date: 2025-01-21
+      value: 37105
   blog:
     - date: 2023-12-31
       value: 251
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1653402246

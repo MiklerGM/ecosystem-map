@@ -33,9 +33,10 @@ web:
   contact: info@talisman.xyz
   github: https://github.com/TalismanSociety/talisman
   documentation: https://docs.talisman.xyz/talisman
-  webstore: https://chromewebstore.google.com/detail/talisman-wallet/fijngjgcjhjmmpcmkeiomlglpeiijkld
+  webstore: 
+    https://chromewebstore.google.com/detail/talisman-wallet/fijngjgcjhjmmpcmkeiomlglpeiijkld
 treasury_funded: true
-audit: true 
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
@@ -44,8 +45,8 @@ metrics:
     - date: 2023-12-31
       value: 92
   github:
-    - date: 2023-12-31
-      value: 45
+    - date: 2025-01-21
+      value: 59
   discord: []
   blog:
     - date: 2023-12-31
@@ -53,3 +54,6 @@ metrics:
   app_downloads:
     - date: 2023-12-31
       value: 70000
+  github_pushed_at:
+    - date: 2025-01-21
+      value: 1737451392
